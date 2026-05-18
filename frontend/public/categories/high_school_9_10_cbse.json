@@ -1,0 +1,257 @@
+{
+"category": "High School Teacher (9–10) – CBSE Board",
+"sections": {
+"Pedagogy & Adolescent Development": {
+    "questions": [
+    {
+        "question": "What are the key developmental characteristics of CBSE students in grades 9–10?",
+        "difficulty": "easy",
+        "model_answer": "Students develop abstract thinking, exam-oriented focus, emotional sensitivity, and increasing academic pressure."
+    },
+    {
+        "question": "How does CBSE’s competency-based approach influence pedagogy?",
+        "difficulty": "medium",
+        "model_answer": "It shifts teaching from rote memorization to application, analysis, and problem-solving."
+    },
+    {
+        "question": "How do you balance syllabus completion with conceptual understanding?",
+        "difficulty": "medium",
+        "model_answer": "By prioritizing core concepts, structured planning, and regular revision."
+    },
+    {
+        "question": "What role does motivation play at the CBSE secondary level?",
+        "difficulty": "easy",
+        "model_answer": "Motivation helps students cope with continuous assessments and board exam preparation."
+    },
+    {
+        "question": "How does NEP 2020 align with CBSE pedagogy?",
+        "difficulty": "medium",
+        "model_answer": "NEP promotes experiential learning, reduced content load, and competency-based assessment."
+    }
+    ],
+    "resources": {
+    "government": [
+        {
+        "title": "CBSE Academic – Pedagogy & Curriculum",
+        "url": "https://cbseacademic.nic.in/curriculum.html",
+        "description": "Official CBSE academic and pedagogical framework."
+        },
+        {
+        "title": "NEP 2020 – Secondary Education",
+        "url": "https://dsel.education.gov.in/sites/default/files/NEP_Final_English_0.pdf",
+        "description": "National policy framework for secondary education."
+        }
+    ]
+    }
+},
+
+"Subject Knowledge": {
+    "questions": [
+    {
+        "question": "What subjects are offered in CBSE classes 9–10?",
+        "difficulty": "easy",
+        "model_answer": "Languages, Mathematics, Science, Social Science, and skill-based electives."
+    },
+    {
+        "question": "How do you teach application-based questions effectively?",
+        "difficulty": "medium",
+        "model_answer": "By using real-life examples, case studies, and practice questions."
+    },
+    {
+        "question": "Why are NCERT textbooks mandatory for CBSE?",
+        "difficulty": "easy",
+        "model_answer": "CBSE board exams are strictly aligned with NCERT textbooks."
+    },
+    {
+        "question": "How do you prepare students for HOTS questions?",
+        "difficulty": "medium",
+        "model_answer": "By encouraging analysis, reasoning, and problem-solving exercises."
+    },
+    {
+        "question": "How do you integrate cross-curricular topics?",
+        "difficulty": "easy",
+        "model_answer": "By linking subject concepts with real-world and interdisciplinary themes."
+    }
+    ],
+    "resources": {
+    "government": [
+        {
+        "title": "NCERT Textbooks – Classes 9–10",
+        "url": "https://ncert.nic.in/textbook.php",
+        "description": "Prescribed textbooks for CBSE secondary classes."
+        }
+    ]
+    }
+},
+
+"Classroom Management": {
+    "questions": [
+    {
+        "question": "How do you manage exam pressure in CBSE classrooms?",
+        "difficulty": "medium",
+        "model_answer": "By structured planning, regular practice, and stress-management techniques."
+    },
+    {
+        "question": "How do you maintain discipline while encouraging participation?",
+        "difficulty": "medium",
+        "model_answer": "Through clear rules, respectful interaction, and student engagement."
+    },
+    {
+        "question": "How do you support low-performing students?",
+        "difficulty": "medium",
+        "model_answer": "By remedial teaching, mentoring, and continuous feedback."
+    },
+    {
+        "question": "How do you handle large CBSE classrooms?",
+        "difficulty": "easy",
+        "model_answer": "By effective classroom organization and group-based activities."
+    }
+    ],
+    "resources": {
+    "government": [
+        {
+        "title": "CBSE Teacher Handbooks & Manuals",
+        "url": "https://cbseacademic.nic.in/manuals.html",
+        "description": "Guidelines for classroom management and instruction."
+        }
+    ]
+    }
+},
+
+"Assessment & Evaluation": {
+    "questions": [
+    {
+        "question": "What assessment pattern is followed by CBSE in grades 9–10?",
+        "difficulty": "easy",
+        "model_answer": "Periodic tests, internal assessments, and board examinations."
+    },
+    {
+        "question": "What is competency-based assessment in CBSE?",
+        "difficulty": "medium",
+        "model_answer": "Assessment focusing on application, reasoning, and problem-solving skills."
+    },
+    {
+        "question": "How do you use sample papers effectively?",
+        "difficulty": "easy",
+        "model_answer": "To familiarize students with exam format and time management."
+    },
+    {
+        "question": "How do you provide constructive feedback?",
+        "difficulty": "easy",
+        "model_answer": "By highlighting strengths, areas of improvement, and clear guidance."
+    }
+    ],
+    "resources": {
+    "government": [
+        {
+        "title": "CBSE Assessment Guidelines & Sample Papers",
+        "url": "https://cbseacademic.nic.in/sqp_classx_2024-25.html",
+        "description": "Official CBSE evaluation and assessment framework."
+        }
+    ]
+    }
+},
+
+"Technology Integration": {
+    "questions": [
+    {
+        "question": "How does CBSE encourage digital learning?",
+        "difficulty": "easy",
+        "model_answer": "Through DIKSHA, online resources, and digital content integration."
+    },
+    {
+        "question": "How can technology improve conceptual clarity?",
+        "difficulty": "easy",
+        "model_answer": "By using simulations, videos, and interactive tools."
+    },
+    {
+        "question": "How do you ensure responsible digital usage?",
+        "difficulty": "easy",
+        "model_answer": "By setting clear guidelines and monitoring student usage."
+    }
+    ],
+    "resources": {
+    "government": [
+        {
+        "title": "DIKSHA – CBSE Content",
+        "url": "https://diksha.gov.in/explore",
+        "description": "Digital resources aligned with CBSE curriculum."
+        }
+    ]
+    }
+},
+
+"Behavioral / HR": {
+    "questions": [
+    {
+        "question": "What professional qualities are expected from a CBSE teacher?",
+        "difficulty": "easy",
+        "model_answer": "Strong subject knowledge, communication skills, discipline, and adaptability."
+    },
+    {
+        "question": "How do you manage workload and deadlines?",
+        "difficulty": "easy",
+        "model_answer": "Through planning, prioritization, and collaboration."
+    },
+    {
+        "question": "How do you communicate with parents in CBSE schools?",
+        "difficulty": "easy",
+        "model_answer": "Through PTMs, progress reports, and regular updates."
+    }
+    ],
+    "resources": {
+    "organizations": [
+        {
+        "title": "CBSE Training & Capacity Building",
+        "url": "https://cbseacademic.nic.in/manuals.html",
+        "description": "Teacher training and development resources."
+        }
+    ]
+    }
+},
+
+"Scenarios": {
+    "questions": [
+    {
+        "question": "How would you handle a student anxious about board exams?",
+        "difficulty": "medium",
+        "model_answer": "By counseling, revision planning, and emotional support."
+    },
+    {
+        "question": "What would you do if students struggle with application-based questions?",
+        "difficulty": "medium",
+        "model_answer": "Provide practice, real-life examples, and guided problem-solving."
+    }
+    ]
+},
+
+"Professional Qualifications & Eligibility": {
+    "questions": [
+    {
+        "question": "What qualifications are required to teach CBSE classes 9–10?",
+        "difficulty": "easy",
+        "model_answer": "Graduation in the subject with B.Ed. and CTET/TET qualification."
+    },
+    {
+        "question": "Is CTET mandatory for CBSE teachers?",
+        "difficulty": "easy",
+        "model_answer": "Yes, CTET Paper-II is mandatory for CBSE secondary teachers."
+    }
+    ],
+    "resources": {
+    "government": [
+        {
+        "title": "NCTE Teacher Qualification Norms",
+        "url": "https://ncte.gov.in/Website/MinimumQualifications.aspx",
+        "description": "Official teacher eligibility standards."
+        },
+        {
+        "title": "CTET Official Website",
+        "url": "https://ctet.nic.in",
+        "description": "Central Teacher Eligibility Test information."
+        }
+    ]
+    }
+}
+}
+}

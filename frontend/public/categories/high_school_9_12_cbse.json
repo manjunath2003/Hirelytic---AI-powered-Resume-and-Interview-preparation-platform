@@ -1,0 +1,242 @@
+{
+"category": "High School Teacher (9–12) – CBSE Board",
+"sections": {
+"Pedagogy & Adolescent Development": {
+    "questions": [
+    {
+        "question": "What developmental characteristics are common among students aged 15–18 in CBSE schools?",
+        "difficulty": "easy",
+        "model_answer": "Students show advanced abstract thinking, exam and career focus, emotional maturity, and increased academic responsibility."
+    },
+    {
+        "question": "How does CBSE pedagogy promote competency-based learning at senior secondary level?",
+        "difficulty": "medium",
+        "model_answer": "By focusing on application-based questions, case studies, and analytical problem-solving."
+    },
+    {
+        "question": "How do you address stress related to board exams and competitive exams?",
+        "difficulty": "medium",
+        "model_answer": "Through counseling, structured revision plans, and stress-management strategies."
+    },
+    {
+        "question": "What role does mentoring play in CBSE senior secondary classes?",
+        "difficulty": "easy",
+        "model_answer": "Mentoring helps students with subject clarity, career guidance, and emotional support."
+    },
+    {
+        "question": "How does NEP 2020 support flexibility at the senior secondary stage?",
+        "difficulty": "medium",
+        "model_answer": "It encourages multidisciplinary learning and flexible subject choices."
+    }
+    ],
+    "resources": {
+    "government": [
+        {
+        "title": "CBSE Academic – Senior Secondary Pedagogy",
+        "url": "https://cbseacademic.nic.in/curriculum.html",
+        "description": "CBSE curriculum and teaching guidelines for Classes 11–12."
+        },
+        {
+        "title": "NEP 2020 – Senior Secondary Education",
+        "url": "https://dsel.education.gov.in/sites/default/files/NEP_Final_English_0.pdf",
+        "description": "Policy framework for senior secondary education."
+        }
+    ]
+    }
+},
+
+"Subject Knowledge": {
+    "questions": [
+    {
+        "question": "What streams are available in CBSE senior secondary education?",
+        "difficulty": "easy",
+        "model_answer": "Science, Commerce, Humanities, and skill-based subjects."
+    },
+    {
+        "question": "How do you ensure depth of understanding in senior secondary subjects?",
+        "difficulty": "medium",
+        "model_answer": "By linking theory to applications, problem-solving, and continuous assessments."
+    },
+    {
+        "question": "Why are NCERT textbooks mandatory for CBSE classes 11–12?",
+        "difficulty": "easy",
+        "model_answer": "CBSE board exams are strictly aligned with NCERT textbooks."
+    },
+    {
+        "question": "How do you prepare students for application-based and HOTS questions?",
+        "difficulty": "medium",
+        "model_answer": "By using case studies, numerical practice, and conceptual discussions."
+    },
+    {
+        "question": "How do you integrate interdisciplinary learning?",
+        "difficulty": "easy",
+        "model_answer": "By connecting concepts across subjects and real-life contexts."
+    }
+    ],
+    "resources": {
+    "government": [
+        {
+        "title": "NCERT Textbooks – Classes 11–12",
+        "url": "https://ncert.nic.in/textbook.php",
+        "description": "Prescribed NCERT textbooks for CBSE senior secondary classes."
+        }
+    ]
+    }
+},
+
+"Classroom Management": {
+    "questions": [
+    {
+        "question": "How do you manage academically intensive CBSE classrooms?",
+        "difficulty": "medium",
+        "model_answer": "Through structured lesson planning, time management, and student mentoring."
+    },
+    {
+        "question": "How do you encourage independent learning among senior students?",
+        "difficulty": "easy",
+        "model_answer": "By assigning research tasks, projects, and self-study activities."
+    },
+    {
+        "question": "How do you handle classroom discipline in senior classes?",
+        "difficulty": "easy",
+        "model_answer": "By fostering mutual respect and clear expectations."
+    }
+    ],
+    "resources": {
+    "government": [
+        {
+        "title": "CBSE Teacher Handbook",
+        "url": "https://cbseacademic.nic.in/manuals.html",
+        "description": "Guidelines for classroom practices in CBSE schools."
+        }
+    ]
+    }
+},
+
+"Assessment & Evaluation": {
+    "questions": [
+    {
+        "question": "What assessment pattern is followed in CBSE classes 11–12?",
+        "difficulty": "easy",
+        "model_answer": "Internal assessments, practical exams, and board examinations."
+    },
+    {
+        "question": "How do you prepare students for CBSE board exams?",
+        "difficulty": "medium",
+        "model_answer": "Through mock tests, revision plans, and previous year question papers."
+    },
+    {
+        "question": "Why are practical examinations important?",
+        "difficulty": "easy",
+        "model_answer": "They assess application of theoretical knowledge and practical skills."
+    },
+    {
+        "question": "How do you ensure fair and objective evaluation?",
+        "difficulty": "medium",
+        "model_answer": "By following CBSE marking schemes and evaluation rubrics."
+    }
+    ],
+    "resources": {
+    "government": [
+        {
+        "title": "CBSE Examination Bye-Laws",
+        "url": "https://www.cbse.gov.in/cbsenew/examinationbylaws.html",
+        "description": "Assessment and evaluation rules for CBSE schools."
+        }
+    ]
+    }
+},
+
+"Technology Integration": {
+    "questions": [
+    {
+        "question": "How does CBSE promote digital learning at senior secondary level?",
+        "difficulty": "easy",
+        "model_answer": "Through DIKSHA, online content, and virtual learning tools."
+    },
+    {
+        "question": "How can technology enhance conceptual clarity?",
+        "difficulty": "easy",
+        "model_answer": "Using simulations, digital labs, and instructional videos."
+    },
+    {
+        "question": "How do you ensure ethical use of digital resources?",
+        "difficulty": "easy",
+        "model_answer": "By promoting originality and monitoring online activities."
+    }
+    ],
+    "resources": {
+    "government": [
+        {
+        "title": "DIKSHA – CBSE Digital Content",
+        "url": "https://diksha.gov.in/explore",
+        "description": "Digital learning resources aligned with CBSE curriculum."
+        }
+    ]
+    }
+},
+
+"Behavioral / HR": {
+    "questions": [
+    {
+        "question": "What qualities are essential for CBSE senior secondary teachers?",
+        "difficulty": "easy",
+        "model_answer": "Strong subject expertise, mentoring skills, professionalism, and adaptability."
+    },
+    {
+        "question": "How do you support students in career planning?",
+        "difficulty": "medium",
+        "model_answer": "By guiding subject selection, competitive exam preparation, and career options."
+    }
+    ],
+    "resources": {
+    "organizations": [
+        {
+        "title": "ASCD Senior Secondary Teaching Resources",
+        "url": "https://www.ascd.org/resources",
+        "description": "Professional development resources for senior educators."
+        }
+    ]
+    }
+},
+
+"Scenarios": {
+    "questions": [
+    {
+        "question": "How would you help a student struggling with board exam preparation?",
+        "difficulty": "medium",
+        "model_answer": "By identifying weak areas, revising strategies, and offering mentoring."
+    },
+    {
+        "question": "What would you do if students focus only on rote learning?",
+        "difficulty": "medium",
+        "model_answer": "Encourage conceptual discussions and application-based practice."
+    }
+    ]
+},
+
+"Professional Qualifications & Eligibility": {
+    "questions": [
+    {
+        "question": "What qualifications are required to teach CBSE classes 11–12?",
+        "difficulty": "easy",
+        "model_answer": "Post-graduation in the subject with B.Ed. qualification."
+    },
+    {
+        "question": "Is CTET mandatory for CBSE senior secondary teachers?",
+        "difficulty": "easy",
+        "model_answer": "CTET is not mandatory for PGT posts but is preferred by institutions."
+    }
+    ],
+    "resources": {
+    "government": [
+        {
+        "title": "NCTE PGT Qualification Norms",
+        "url": "https://ncte.gov.in/Website/MinimumQualifications.aspx",
+        "description": "Eligibility standards for senior secondary teachers."
+        }
+    ]
+    }
+}
+}
+}

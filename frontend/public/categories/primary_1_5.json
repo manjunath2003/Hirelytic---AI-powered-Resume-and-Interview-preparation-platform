@@ -1,0 +1,312 @@
+{
+"category": "Primary (Grades 1–5)",
+"sections": {
+"Pedagogy & Child Development": {
+    "questions": [
+    {
+        "question": "What are the key developmental characteristics of children aged 6–11 years?",
+        "difficulty": "easy",
+        "model_answer": "Children in this age group show rapid cognitive development, improved language skills, growing social awareness, and increased ability to think logically about concrete concepts."
+    },
+    {
+        "question": "How does NEP 2020 influence teaching practices at the primary level?",
+        "difficulty": "medium",
+        "model_answer": "NEP 2020 emphasizes foundational literacy and numeracy, experiential learning, reduced rote memorization, and competency-based education."
+    },
+    {
+        "question": "Explain the concept of experiential learning with an example.",
+        "difficulty": "medium",
+        "model_answer": "Experiential learning involves learning by doing, such as teaching fractions using real-life objects like fruits or paper folding."
+    },
+    {
+        "question": "How do you address mixed-ability classrooms in primary schools?",
+        "difficulty": "medium",
+        "model_answer": "By differentiated instruction, flexible grouping, and providing varied learning materials."
+    },
+    {
+        "question": "What role does activity-based learning play in primary education?",
+        "difficulty": "easy",
+        "model_answer": "It improves engagement, understanding, and retention by involving students actively in the learning process."
+    },
+    {
+        "question": "How do you support slow learners in a primary classroom?",
+        "difficulty": "medium",
+        "model_answer": "Through remedial teaching, personalized attention, and collaboration with parents."
+    },
+    {
+        "question": "Why is foundational literacy and numeracy critical at this stage?",
+        "difficulty": "easy",
+        "model_answer": "It forms the base for all future learning and academic success."
+    },
+    {
+        "question": "How do you integrate moral values in daily teaching?",
+        "difficulty": "easy",
+        "model_answer": "Through stories, discussions, role play, and teacher modeling."
+    },
+    {
+        "question": "What is competency-based education?",
+        "difficulty": "medium",
+        "model_answer": "It focuses on students achieving specific learning outcomes rather than rote completion of syllabus."
+    },
+    {
+        "question": "How do learning outcomes guide lesson planning?",
+        "difficulty": "easy",
+        "model_answer": "They help define clear objectives and assessment criteria for lessons."
+    }
+    ],
+    "resources": {
+    "government": [
+        {
+        "title": "NCERT Learning Outcomes – Elementary Stage",
+        "url": "https://ncert.nic.in/pdf/publication/other/learning_outcomes.pdf",
+        "description": "Official learning outcomes for Classes 1–5."
+        },
+        {
+        "title": "NEP 2020 – Foundational Stage",
+        "url": "https://dsel.education.gov.in/sites/default/files/NEP_Final_English_0.pdf",
+        "description": "Policy guidelines for primary education."
+        }
+    ]
+    }
+},
+
+"Subject Knowledge": {
+    "questions": [
+    {
+        "question": "What are the core subjects taught at the primary level?",
+        "difficulty": "easy",
+        "model_answer": "Languages, Mathematics, Environmental Studies (EVS), and basic Science and Social Studies."
+    },
+    {
+        "question": "How do you make mathematics engaging for young learners?",
+        "difficulty": "easy",
+        "model_answer": "By using manipulatives, games, real-life examples, and visual aids."
+    },
+    {
+        "question": "How is EVS taught differently from Science?",
+        "difficulty": "medium",
+        "model_answer": "EVS integrates concepts from science, social science, and environmental awareness."
+    },
+    {
+        "question": "How do you develop reading comprehension skills?",
+        "difficulty": "easy",
+        "model_answer": "Through guided reading, storytelling, questioning, and vocabulary activities."
+    },
+    {
+        "question": "Why are NCERT textbooks recommended?",
+        "difficulty": "easy",
+        "model_answer": "They are aligned with national curriculum standards and conceptual clarity."
+    },
+    {
+        "question": "How do you integrate art and craft with academics?",
+        "difficulty": "easy",
+        "model_answer": "By linking drawing, models, and creative activities with subject concepts."
+    },
+    {
+        "question": "How do you encourage scientific thinking in primary students?",
+        "difficulty": "medium",
+        "model_answer": "By encouraging observation, questioning, and simple experiments."
+    },
+    {
+        "question": "How do you teach grammar effectively at the primary level?",
+        "difficulty": "medium",
+        "model_answer": "Through usage-based activities, stories, and practice instead of memorization."
+    },
+    {
+        "question": "What is the role of worksheets in learning?",
+        "difficulty": "easy",
+        "model_answer": "They reinforce concepts and provide practice."
+    },
+    {
+        "question": "How do you link lessons to real-life situations?",
+        "difficulty": "easy",
+        "model_answer": "By using daily-life examples and problem-solving activities."
+    }
+    ],
+    "resources": {
+    "government": [
+        {
+        "title": "NCERT Primary Textbooks",
+        "url": "https://ncert.nic.in/textbook.php",
+        "description": "Official textbooks for Classes 1–5."
+        }
+    ]
+    }
+},
+
+"Classroom Management": {
+    "questions": [
+    {
+        "question": "How do you maintain discipline in a primary classroom?",
+        "difficulty": "easy",
+        "model_answer": "By setting clear rules, consistency, and positive reinforcement."
+    },
+    {
+        "question": "How do you handle disruptive behavior?",
+        "difficulty": "medium",
+        "model_answer": "By addressing root causes, counseling, and constructive discipline."
+    },
+    {
+        "question": "How do you manage time effectively during lessons?",
+        "difficulty": "easy",
+        "model_answer": "Through lesson planning and structured activities."
+    },
+    {
+        "question": "What strategies help improve student engagement?",
+        "difficulty": "easy",
+        "model_answer": "Interactive teaching, questioning, and activities."
+    },
+    {
+        "question": "How do you ensure inclusivity in the classroom?",
+        "difficulty": "medium",
+        "model_answer": "By respecting diversity and adapting teaching methods."
+    }
+    ],
+    "resources": {
+    "government": [
+        {
+        "title": "NCERT Classroom Practices (AAC)",
+        "url": "https://ncert.nic.in/aac.php",
+        "description": "Guidelines for effective classroom management and scheduling."
+        }
+    ]
+    }
+},
+
+"Assessment & Evaluation": {
+    "questions": [
+    {
+        "question": "What is formative assessment?",
+        "difficulty": "easy",
+        "model_answer": "Ongoing assessment used to improve learning during instruction."
+    },
+    {
+        "question": "How do you assess students without creating stress?",
+        "difficulty": "easy",
+        "model_answer": "Through observations, quizzes, projects, and oral assessments."
+    },
+    {
+        "question": "What is competency-based assessment?",
+        "difficulty": "medium",
+        "model_answer": "Assessing students based on demonstrated skills and understanding."
+    },
+    {
+        "question": "How do you provide feedback to students?",
+        "difficulty": "easy",
+        "model_answer": "By giving constructive, encouraging, and specific feedback."
+    }
+    ],
+    "resources": {
+    "government": [
+        {
+        "title": "NCERT Assessment Guidelines (Source Book)",
+        "url": "https://ncert.nic.in/dee/pdf/SourceBookonAssessmentforClassesItoV-1.pdf",
+        "description": "Child-friendly assessment framework."
+        }
+    ]
+    }
+},
+
+"Technology Integration": {
+    "questions": [
+    {
+        "question": "How can digital tools support primary education?",
+        "difficulty": "easy",
+        "model_answer": "By enhancing visualization, engagement, and access to resources."
+    },
+    {
+        "question": "What precautions are needed while using technology?",
+        "difficulty": "easy",
+        "model_answer": "Limited screen time, supervision, and age-appropriate content."
+    },
+    {
+        "question": "What government platforms support digital learning?",
+        "difficulty": "easy",
+        "model_answer": "DIKSHA and SWAYAM platforms."
+    }
+    ],
+    "resources": {
+    "government": [
+        {
+        "title": "DIKSHA Platform",
+        "url": "https://diksha.gov.in/explore",
+        "description": "National digital infrastructure for teachers."
+        }
+    ]
+    }
+},
+
+"Behavioral / HR": {
+    "questions": [
+    {
+        "question": "What qualities are essential for a primary teacher?",
+        "difficulty": "easy",
+        "model_answer": "Patience, empathy, communication skills, and dedication."
+    },
+    {
+        "question": "How do you collaborate with parents?",
+        "difficulty": "easy",
+        "model_answer": "Through regular meetings and transparent communication."
+    },
+    {
+        "question": "How do you handle work-related stress?",
+        "difficulty": "easy",
+        "model_answer": "By time management, peer support, and self-care."
+    }
+    ],
+    "resources": {
+    "organizations": [
+        {
+        "title": "ASCD Teaching Resources",
+        "url": "https://www.ascd.org/resources",
+        "description": "Professional development for educators."
+        }
+    ]
+    }
+},
+
+"Scenarios": {
+    "questions": [
+    {
+        "question": "How would you handle a student who consistently underperforms?",
+        "difficulty": "medium",
+        "model_answer": "By identifying learning gaps, providing remedial support, and involving parents."
+    },
+    {
+        "question": "What would you do if students lose interest in a lesson?",
+        "difficulty": "medium",
+        "model_answer": "Modify teaching strategies and include interactive elements."
+    }
+    ]
+},
+
+"Professional Qualifications & Eligibility": {
+    "questions": [
+    {
+        "question": "What qualifications are required for a primary teacher?",
+        "difficulty": "easy",
+        "model_answer": "10+2 with D.El.Ed/B.El.Ed or Graduation with B.Ed."
+    },
+    {
+        "question": "Is CTET mandatory for primary teachers?",
+        "difficulty": "easy",
+        "model_answer": "Yes, CTET Paper-I or State TET is mandatory."
+    }
+    ],
+    "resources": {
+    "government": [
+        {
+        "title": "NCTE Teacher Eligibility Norms",
+        "url": "https://ncte.gov.in/Website/MinimumQualifications.aspx",
+        "description": "Official teacher qualification guidelines."
+        },
+        {
+        "title": "CTET Official Website",
+        "url": "https://ctet.nic.in",
+        "description": "Central Teacher Eligibility Test information."
+        }
+    ]
+    }
+}
+}
+}

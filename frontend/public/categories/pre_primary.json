@@ -1,0 +1,271 @@
+{
+"category": "Pre-Primary (Nursery–KG)",
+"sections": {
+"Pedagogy & Child Development": {
+    "questions": [
+    {
+        "question": "What is play-based learning and why is it important in early childhood education?",
+        "difficulty": "easy",
+        "model_answer": "Play-based learning supports holistic development by promoting cognitive, social, emotional, and motor skills through structured and unstructured play activities.",
+        "follow_up": "How do you balance free play and guided play?"
+    },
+    {
+        "question": "How do developmental milestones influence lesson planning for nursery children?",
+        "difficulty": "medium",
+        "model_answer": "Lesson planning is aligned with age-appropriate milestones such as language development, fine motor skills, and social interaction to ensure realistic learning outcomes."
+    },
+    {
+        "question": "How do you address diverse learning needs in a pre-primary classroom?",
+        "difficulty": "medium",
+        "model_answer": "By using differentiated instruction, multi-sensory activities, and flexible grouping to cater to varied developmental levels."
+    },
+    {
+        "question": "Explain the role of storytelling in early childhood learning.",
+        "difficulty": "easy",
+        "model_answer": "Storytelling enhances language development, imagination, listening skills, and emotional understanding."
+    },
+    {
+        "question": "How do you promote social-emotional development in young children?",
+        "difficulty": "medium",
+        "model_answer": "Through group activities, role play, positive reinforcement, and emotional labeling."
+    },
+    {
+        "question": "What is holistic development in ECCE?",
+        "difficulty": "easy",
+        "model_answer": "Holistic development includes physical, cognitive, language, social, emotional, and creative growth."
+    },
+    {
+        "question": "How do you handle developmental delays in pre-primary children?",
+        "difficulty": "medium",
+        "model_answer": "By early identification, parental communication, observation records, and referral to specialists if required."
+    },
+    {
+        "question": "What is the significance of routine in a nursery classroom?",
+        "difficulty": "easy",
+        "model_answer": "Routine provides a sense of security, predictability, and emotional stability."
+    },
+    {
+        "question": "How does NEP 2020 influence early childhood education?",
+        "difficulty": "medium",
+        "model_answer": "NEP 2020 emphasizes foundational literacy, numeracy, play-based and experiential learning."
+    },
+    {
+        "question": "How do you encourage language development in KG children?",
+        "difficulty": "easy",
+        "model_answer": "Through rhymes, conversations, storytelling, picture reading, and interactive activities."
+    }
+    ],
+    "resources": {
+    "government": [
+        {
+        "title": "NCERT – Vidya Pravesh ECCE Module",
+        "url": "https://dsel.education.gov.in/sites/default/files/2021-07/vidya_pravesh_0.pdf",
+        "description": "Official play-based school preparation module aligned with NEP 2020."
+        },
+        {
+        "title": "NEP 2020 – Foundational Literacy & Numeracy",
+        "url": "https://nipunbharat.education.gov.in",
+        "description": "National Education Policy framework for early childhood education."
+        }
+    ],
+    "courses": [
+        {
+        "title": "Early Childhood Care and Education",
+        "platform": "SWAYAM",
+        "url": "https://swayam.gov.in/explorer?searchText=Early+Childhood",
+        "description": "Government-certified ECCE course."
+        }
+    ]
+    }
+},
+
+"Subject Knowledge": {
+    "questions": [
+    {
+        "question": "What foundational concepts are taught in nursery-level mathematics?",
+        "difficulty": "easy",
+        "model_answer": "Basic counting, shapes, sizes, patterns, and number recognition."
+    },
+    {
+        "question": "How do you introduce phonics to KG students?",
+        "difficulty": "easy",
+        "model_answer": "Using sounds, songs, flashcards, and repetition through play."
+    },
+    {
+        "question": "How do activity books support subject learning?",
+        "difficulty": "easy",
+        "model_answer": "They reinforce concepts through coloring, tracing, and matching activities."
+    },
+    {
+        "question": "What role does general awareness play at pre-primary level?",
+        "difficulty": "easy",
+        "model_answer": "It builds curiosity about surroundings, nature, and social environment."
+    },
+    {
+        "question": "How do you integrate language and numeracy in daily activities?",
+        "difficulty": "medium",
+        "model_answer": "Through rhymes, counting games, and story-based numeracy."
+    }
+    ],
+    "resources": {
+    "government": [
+        {
+        "title": "NCERT Foundational Learning Resources",
+        "url": "https://ncert.nic.in/jadui-pitara.php",
+        "description": "Official subject resources for foundational stage."
+        }
+    ]
+    }
+},
+
+"Classroom Management": {
+    "questions": [
+    {
+        "question": "How do you manage separation anxiety in nursery children?",
+        "difficulty": "easy",
+        "model_answer": "By maintaining consistent routines, gentle reassurance, and parent collaboration."
+    },
+    {
+        "question": "How do you ensure safety in a pre-primary classroom?",
+        "difficulty": "easy",
+        "model_answer": "By child-proofing the environment, supervision, and safety rules."
+    },
+    {
+        "question": "How do you manage disruptive behavior positively?",
+        "difficulty": "medium",
+        "model_answer": "Using positive reinforcement and redirection instead of punishment."
+    },
+    {
+        "question": "What strategies help maintain attention span?",
+        "difficulty": "medium",
+        "model_answer": "Short activities, movement breaks, and interactive learning."
+    }
+    ],
+    "resources": {
+    "government": [
+        {
+        "title": "NCERT ECCE Guidelines",
+        "url": "https://ncert.nic.in/pdf/publication/other/Pre-school_curriculum.pdf",
+        "description": "Official classroom management and safety guidelines."
+        }
+    ]
+    }
+},
+
+"Assessment & Evaluation": {
+    "questions": [
+    {
+        "question": "How do you assess learning without exams?",
+        "difficulty": "easy",
+        "model_answer": "Through observation, checklists, portfolios, and anecdotal records."
+    },
+    {
+        "question": "What is formative assessment in ECCE?",
+        "difficulty": "easy",
+        "model_answer": "Continuous observation to guide instruction and support learning."
+    },
+    {
+        "question": "How do you communicate progress to parents?",
+        "difficulty": "easy",
+        "model_answer": "Through parent-teacher meetings and progress reports."
+    }
+    ],
+    "resources": {
+    "government": [
+        {
+        "title": "NCERT Assessment Framework",
+        "url": "https://parakh.ncert.gov.in/holistic-progress-card-foundational-stage",
+        "description": "Guidelines for child-friendly assessment."
+        }
+    ]
+    }
+},
+
+"Technology Integration": {
+    "questions": [
+    {
+        "question": "How can technology be safely used in pre-primary classrooms?",
+        "difficulty": "medium",
+        "model_answer": "Limited screen time using age-appropriate educational videos under supervision."
+    },
+    {
+        "question": "What digital tools support early learning?",
+        "difficulty": "easy",
+        "model_answer": "Interactive videos, digital storybooks, and rhymes."
+    }
+    ],
+    "resources": {
+    "government": [
+        {
+        "title": "DIKSHA Early Learning Content",
+        "url": "https://diksha.gov.in/explore",
+        "description": "Government digital learning platform."
+        }
+    ]
+    }
+},
+
+"Behavioral / HR": {
+    "questions": [
+    {
+        "question": "Why is patience important for a pre-primary teacher?",
+        "difficulty": "easy",
+        "model_answer": "Young children need time and emotional support to learn."
+    },
+    {
+        "question": "How do you communicate effectively with parents?",
+        "difficulty": "easy",
+        "model_answer": "Through transparent, empathetic, and regular communication."
+    }
+    ],
+    "resources": {
+    "organizations": [
+        {
+        "title": "NAEYC – Early Childhood Educator Resources",
+        "url": "https://www.naeyc.org/resources",
+        "description": "Global authority on early childhood education."
+        }
+    ]
+    }
+},
+
+"Scenarios": {
+    "questions": [
+    {
+        "question": "How would you handle a child who refuses to participate?",
+        "difficulty": "medium",
+        "model_answer": "By observing, encouraging gently, and adapting activities."
+    },
+    {
+        "question": "What would you do if a child frequently cries in class?",
+        "difficulty": "medium",
+        "model_answer": "Comfort the child, identify triggers, and involve parents."
+    }
+    ]
+},
+
+"Professional Qualifications & Training": {
+    "questions": [
+    {
+        "question": "What qualifications are required for a pre-primary teacher?",
+        "difficulty": "easy",
+        "model_answer": "10+2 with a Diploma/Certificate in ECCE, NTT, or PPTT."
+    },
+    {
+        "question": "Is B.Ed mandatory for nursery teachers?",
+        "difficulty": "easy",
+        "model_answer": "No, but ECCE-specific training is mandatory."
+    }
+    ],
+    "resources": {
+    "government": [
+        {
+        "title": "NCTE Teacher Qualification Norms",
+        "url": "https://ncte.gov.in/Website/MinimumQualifications.aspx",
+        "description": "Official qualification standards for teachers."
+        }
+    ]
+    }
+}
+}
+}

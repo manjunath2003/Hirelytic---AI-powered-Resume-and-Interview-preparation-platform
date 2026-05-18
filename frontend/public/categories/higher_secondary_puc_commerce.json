@@ -1,0 +1,218 @@
+{
+"category": "Higher Secondary / PUC – Commerce",
+"sections": {
+"Pedagogy & Adolescent Development": {
+    "questions": [
+    {
+        "question": "What learning characteristics are common among PUC Commerce students?",
+        "difficulty": "easy",
+        "model_answer": "Students are career-oriented, analytical, interested in real-world business applications, and focused on exams and professional courses."
+    },
+    {
+        "question": "How does pedagogy for Commerce differ from Science streams?",
+        "difficulty": "medium",
+        "model_answer": "Commerce pedagogy emphasizes case studies, numerical problem-solving, real-life business examples, and application-based learning."
+    },
+    {
+        "question": "How do you help students manage pressure from CA, CS, and CMA aspirations?",
+        "difficulty": "medium",
+        "model_answer": "By structured academic planning, mentoring, and balancing board syllabus with professional exam preparation."
+    },
+    {
+        "question": "Why is experiential learning important in Commerce education?",
+        "difficulty": "easy",
+        "model_answer": "It helps students understand business concepts through real-life examples and practical exposure."
+    },
+    {
+        "question": "How do you motivate students toward entrepreneurship?",
+        "difficulty": "easy",
+        "model_answer": "By encouraging innovation, project work, and exposure to business case studies."
+    }
+    ],
+    "resources": {
+    "government": [
+        {
+        "title": "NEP 2020 – Commerce & Business Studies",
+        "url": "https://dsel.education.gov.in/sites/default/files/NEP_Final_English_0.pdf",
+        "description": "Policy framework supporting multidisciplinary and commerce education."
+        }
+    ]
+    }
+},
+
+"Subject Knowledge (Accountancy, Business Studies, Economics, Statistics)": {
+    "questions": [
+    {
+        "question": "Why is Accountancy considered a core subject in Commerce?",
+        "difficulty": "easy",
+        "model_answer": "It builds financial literacy, accounting skills, and understanding of business transactions."
+    },
+    {
+        "question": "How do you teach complex accounting concepts effectively?",
+        "difficulty": "medium",
+        "model_answer": "By step-by-step problem-solving and real-life examples."
+    },
+    {
+        "question": "How do you relate Business Studies concepts to real companies?",
+        "difficulty": "easy",
+        "model_answer": "By using case studies and current business scenarios."
+    },
+    {
+        "question": "Why is Economics important for Commerce students?",
+        "difficulty": "easy",
+        "model_answer": "It helps students understand markets, policies, and economic decision-making."
+    },
+    {
+        "question": "How do you make Statistics engaging for students?",
+        "difficulty": "medium",
+        "model_answer": "By using data analysis, charts, and real-world datasets."
+    }
+    ],
+    "resources": {
+    "government": [
+        {
+        "title": "NCERT Textbooks – Commerce (Classes 11–12)",
+        "url": "https://ncert.nic.in/textbook.php",
+        "description": "Official NCERT textbooks for Commerce subjects."
+        }
+    ]
+    }
+},
+
+"Classroom Management": {
+    "questions": [
+    {
+        "question": "How do you manage discussion-based Commerce classes?",
+        "difficulty": "easy",
+        "model_answer": "By encouraging participation, debates, and structured discussions."
+    },
+    {
+        "question": "How do you handle students with different career goals?",
+        "difficulty": "medium",
+        "model_answer": "By offering flexible guidance and subject relevance."
+    },
+    {
+        "question": "How do you maintain discipline in senior Commerce classes?",
+        "difficulty": "easy",
+        "model_answer": "Through mutual respect, clear expectations, and engagement."
+    }
+    ],
+    "resources": {
+    "government": [
+        {
+        "title": "NCERT Teaching Practices (AAC)",
+        "url": "https://ncert.nic.in/aac.php",
+        "description": "Guidelines for effective classroom practices and scheduling."
+        }
+    ]
+    }
+},
+
+"Assessment & Evaluation": {
+    "questions": [
+    {
+        "question": "What assessment methods are used in PUC Commerce?",
+        "difficulty": "easy",
+        "model_answer": "Written exams, project work, and internal assessments."
+    },
+    {
+        "question": "How do you assess numerical accuracy in Accountancy?",
+        "difficulty": "medium",
+        "model_answer": "Through problem-solving tests and practical applications."
+    },
+    {
+        "question": "How do project works support Commerce learning?",
+        "difficulty": "easy",
+        "model_answer": "They develop research, analysis, and presentation skills."
+    }
+    ],
+    "resources": {
+    "government": [
+        {
+        "title": "PUC Examination Guidelines – Commerce",
+        "url": "https://kseab.karnataka.gov.in/english",
+        "description": "State-level examination rules for Commerce stream."
+        }
+    ]
+    }
+},
+
+"Technology Integration": {
+    "questions": [
+    {
+        "question": "How can technology enhance Commerce teaching?",
+        "difficulty": "easy",
+        "model_answer": "Through financial simulations, presentations, and data analysis tools."
+    },
+    {
+        "question": "Which platforms support digital Commerce education?",
+        "difficulty": "easy",
+        "model_answer": "DIKSHA and SWAYAM platforms."
+    }
+    ],
+    "resources": {
+    "government": [
+        {
+        "title": "SWAYAM – Commerce Courses",
+        "url": "https://swayam.gov.in/explorer?category=COMMERCE",
+        "description": "Government-hosted online courses in Commerce and Economics."
+        }
+    ]
+    }
+},
+
+"Behavioral / HR": {
+    "questions": [
+    {
+        "question": "What qualities are essential for Commerce teachers?",
+        "difficulty": "easy",
+        "model_answer": "Strong conceptual clarity, communication skills, and mentoring ability."
+    },
+    {
+        "question": "How do you guide students toward professional courses?",
+        "difficulty": "medium",
+        "model_answer": "By providing information on career paths and preparation strategies."
+    }
+    ]
+},
+
+"Scenarios": {
+    "questions": [
+    {
+        "question": "How would you help a student struggling in Accountancy?",
+        "difficulty": "medium",
+        "model_answer": "By revisiting fundamentals and offering extra practice."
+    },
+    {
+        "question": "What would you do if students lack interest in theory subjects?",
+        "difficulty": "medium",
+        "model_answer": "Use real-life examples and interactive teaching methods."
+    }
+    ]
+},
+
+"Professional Qualifications & Eligibility": {
+    "questions": [
+    {
+        "question": "What qualifications are required for PUC Commerce teachers?",
+        "difficulty": "easy",
+        "model_answer": "Post-graduation in Commerce or related subject with B.Ed. qualification."
+    },
+    {
+        "question": "Is CTET mandatory for Commerce teachers at PUC level?",
+        "difficulty": "easy",
+        "model_answer": "CTET is not mandatory for PUC teaching."
+    }
+    ],
+    "resources": {
+    "government": [
+        {
+        "title": "NCTE PGT Eligibility Norms",
+        "url": "https://ncte.gov.in/Website/MinimumQualifications.aspx",
+        "description": "Teacher qualification standards for senior secondary education."
+        }
+    ]
+    }
+}
+}
+}

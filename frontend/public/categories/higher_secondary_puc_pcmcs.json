@@ -1,0 +1,218 @@
+{
+"category": "Higher Secondary / PUC – PCMCs",
+"sections": {
+"Pedagogy & Adolescent Development": {
+    "questions": [
+    {
+        "question": "What learning characteristics are common among PCMCs students?",
+        "difficulty": "easy",
+        "model_answer": "Students are highly analytical, technology-oriented, career-focused, and inclined toward logical problem-solving."
+    },
+    {
+        "question": "How does pedagogy differ for PCMCs compared to PCMB?",
+        "difficulty": "medium",
+        "model_answer": "PCMCs pedagogy emphasizes computational thinking, abstraction, algorithms, and applied mathematics."
+    },
+    {
+        "question": "How do you manage academic pressure related to engineering entrance exams?",
+        "difficulty": "medium",
+        "model_answer": "Through structured study plans, mentoring, and stress-management strategies."
+    },
+    {
+        "question": "Why is problem-based learning important for PCMCs students?",
+        "difficulty": "easy",
+        "model_answer": "It develops logical reasoning, coding skills, and real-world application abilities."
+    },
+    {
+        "question": "How do you promote independent learning in senior secondary students?",
+        "difficulty": "easy",
+        "model_answer": "By encouraging research, coding projects, and self-learning platforms."
+    }
+    ],
+    "resources": {
+    "government": [
+        {
+        "title": "NEP 2020 – Senior Secondary STEM Education",
+        "url": "https://dsel.education.gov.in/sites/default/files/NEP_Final_English_0.pdf",
+        "description": "Policy framework for STEM education at senior secondary level."
+        }
+    ]
+    }
+},
+
+"Subject Knowledge (Physics, Chemistry, Mathematics, Computer Science)": {
+    "questions": [
+    {
+        "question": "Why are NCERT textbooks important for PCMCs students?",
+        "difficulty": "easy",
+        "model_answer": "They provide conceptual clarity and form the base for board and competitive exams."
+    },
+    {
+        "question": "How do you teach programming fundamentals effectively?",
+        "difficulty": "medium",
+        "model_answer": "By combining theory with hands-on coding exercises and problem-solving."
+    },
+    {
+        "question": "How do you integrate Mathematics with Computer Science?",
+        "difficulty": "easy",
+        "model_answer": "By applying algebra, probability, and logic in programming and algorithms."
+    },
+    {
+        "question": "How do you explain abstract physics concepts?",
+        "difficulty": "medium",
+        "model_answer": "Using diagrams, simulations, and real-world examples."
+    },
+    {
+        "question": "What is the role of algorithms in PCMCs education?",
+        "difficulty": "easy",
+        "model_answer": "Algorithms develop logical thinking and efficient problem-solving skills."
+    }
+    ],
+    "resources": {
+    "government": [
+        {
+        "title": "NCERT Textbooks – Classes 11–12 (PCM & CS)",
+        "url": "https://ncert.nic.in/textbook.php",
+        "description": "Official NCERT textbooks for PCMCs subjects."
+        }
+    ]
+    }
+},
+
+"Classroom & Lab Management": {
+    "questions": [
+    {
+        "question": "How do you manage computer labs effectively?",
+        "difficulty": "easy",
+        "model_answer": "By ensuring system readiness, supervision, and adherence to lab rules."
+    },
+    {
+        "question": "How do you handle mixed-ability learners in PCMCs classes?",
+        "difficulty": "medium",
+        "model_answer": "By differentiated instruction and peer learning."
+    },
+    {
+        "question": "How do you ensure productive practical sessions?",
+        "difficulty": "medium",
+        "model_answer": "By structured tasks and guided experimentation."
+    }
+    ],
+    "resources": {
+    "government": [
+        {
+        "title": "NCERT Laboratory Manuals",
+        "url": "https://ncert.nic.in/laboratory-manuals.php",
+        "description": "Official lab manuals for Science and Computer Science."
+        }
+    ]
+    }
+},
+
+"Assessment & Evaluation": {
+    "questions": [
+    {
+        "question": "What assessment methods are used in PCMCs stream?",
+        "difficulty": "easy",
+        "model_answer": "Theory exams, practical exams, and internal assessments."
+    },
+    {
+        "question": "How do you assess programming skills?",
+        "difficulty": "medium",
+        "model_answer": "Through coding tests, practical exams, and project work."
+    },
+    {
+        "question": "How do you evaluate analytical problem-solving skills?",
+        "difficulty": "medium",
+        "model_answer": "Using numerical problems and application-based questions."
+    }
+    ],
+    "resources": {
+    "government": [
+        {
+        "title": "KSEAB – PUC Examination Section",
+        "url": "https://kseab.karnataka.gov.in/english",
+        "description": "State-level guidelines for PUC PCMCs examinations."
+        }
+    ]
+    }
+},
+
+"Technology Integration": {
+    "questions": [
+    {
+        "question": "How does technology enhance PCMCs learning?",
+        "difficulty": "easy",
+        "model_answer": "Through simulations, coding platforms, and virtual labs."
+    },
+    {
+        "question": "Which government platforms support digital STEM learning?",
+        "difficulty": "easy",
+        "model_answer": "DIKSHA and SWAYAM platforms."
+    }
+    ],
+    "resources": {
+    "government": [
+        {
+        "title": "SWAYAM – Computer Science Courses",
+        "url": "https://swayam.gov.in/explorer?category=COMP_SCI_ENGG",
+        "description": "Government-hosted online courses in computer science."
+        }
+    ]
+    }
+},
+
+"Behavioral / HR": {
+    "questions": [
+    {
+        "question": "What qualities are essential for PCMCs teachers?",
+        "difficulty": "easy",
+        "model_answer": "Strong analytical skills, subject expertise, mentoring ability, and adaptability."
+    },
+    {
+        "question": "How do you motivate students toward STEM careers?",
+        "difficulty": "medium",
+        "model_answer": "By exposing them to real-world applications and career pathways."
+    }
+    ]
+},
+
+"Scenarios": {
+    "questions": [
+    {
+        "question": "How would you help a student struggling with programming concepts?",
+        "difficulty": "medium",
+        "model_answer": "By revisiting basics, providing practice, and offering individual support."
+    },
+    {
+        "question": "What would you do if students rely solely on coaching institutes?",
+        "difficulty": "medium",
+        "model_answer": "Emphasize conceptual learning and classroom engagement."
+    }
+    ]
+},
+
+"Professional Qualifications & Eligibility": {
+    "questions": [
+    {
+        "question": "What qualifications are required for PUC PCMCs teachers?",
+        "difficulty": "easy",
+        "model_answer": "Post-graduation in the subject with B.Ed. qualification."
+    },
+    {
+        "question": "Is CTET mandatory for PCMCs teachers?",
+        "difficulty": "easy",
+        "model_answer": "CTET is not mandatory for PUC level teaching."
+    }
+    ],
+    "resources": {
+    "government": [
+        {
+        "title": "NCTE PGT Eligibility Norms",
+        "url": "https://ncte.gov.in/Website/MinimumQualifications.aspx",
+        "description": "Teacher qualification standards for senior secondary education."
+        }
+    ]
+    }
+}
+}
+}

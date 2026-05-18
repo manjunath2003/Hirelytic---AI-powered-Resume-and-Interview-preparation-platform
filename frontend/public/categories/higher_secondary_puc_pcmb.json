@@ -1,0 +1,218 @@
+{
+"category": "Higher Secondary / PUC – PCMB",
+"sections": {
+"Pedagogy & Adolescent Development": {
+    "questions": [
+    {
+        "question": "What are the academic characteristics of PUC PCMB students?",
+        "difficulty": "easy",
+        "model_answer": "Students focus on conceptual depth, competitive exams, analytical thinking, and career-oriented learning."
+    },
+    {
+        "question": "How does pedagogy differ for PCMB students compared to other streams?",
+        "difficulty": "medium",
+        "model_answer": "Teaching emphasizes problem-solving, experiments, numerical accuracy, and scientific reasoning."
+    },
+    {
+        "question": "How do you support students facing pressure from NEET and JEE preparation?",
+        "difficulty": "medium",
+        "model_answer": "By structured planning, mentoring, stress management, and academic guidance."
+    },
+    {
+        "question": "Why is conceptual clarity critical in PCMB subjects?",
+        "difficulty": "easy",
+        "model_answer": "Competitive exams test application and deep understanding rather than memorization."
+    },
+    {
+        "question": "How do you encourage scientific temperament?",
+        "difficulty": "easy",
+        "model_answer": "By promoting inquiry, experiments, and evidence-based reasoning."
+    }
+    ],
+    "resources": {
+    "government": [
+        {
+        "title": "NEP 2020 – Senior Secondary Science Education",
+        "url": "https://dsel.education.gov.in/sites/default/files/NEP_Final_English_0.pdf",
+        "description": "Guidelines for science education at senior secondary level."
+        }
+    ]
+    }
+},
+
+"Subject Knowledge (Physics, Chemistry, Mathematics, Biology)": {
+    "questions": [
+    {
+        "question": "How do you balance syllabus coverage across PCMB subjects?",
+        "difficulty": "medium",
+        "model_answer": "By structured lesson plans and integrated revision schedules."
+    },
+    {
+        "question": "Why are NCERT textbooks important for PCMB students?",
+        "difficulty": "easy",
+        "model_answer": "They form the base for board exams and competitive exams like NEET and JEE."
+    },
+    {
+        "question": "How do you teach complex numerical problems in Physics?",
+        "difficulty": "medium",
+        "model_answer": "By breaking problems into steps and relating them to concepts."
+    },
+    {
+        "question": "How do laboratory experiments enhance Biology and Chemistry learning?",
+        "difficulty": "easy",
+        "model_answer": "They improve conceptual understanding and practical skills."
+    },
+    {
+        "question": "How do you integrate Mathematics with Science subjects?",
+        "difficulty": "easy",
+        "model_answer": "By applying mathematical concepts in Physics and Chemistry problems."
+    }
+    ],
+    "resources": {
+    "government": [
+        {
+        "title": "NCERT Textbooks – Classes 11–12 (Science)",
+        "url": "https://ncert.nic.in/textbook.php",
+        "description": "Official NCERT textbooks for PCMB subjects."
+        }
+    ]
+    }
+},
+
+"Classroom & Lab Management": {
+    "questions": [
+    {
+        "question": "How do you manage laboratory safety?",
+        "difficulty": "easy",
+        "model_answer": "By following lab protocols and supervising experiments."
+    },
+    {
+        "question": "How do you ensure effective lab utilization?",
+        "difficulty": "medium",
+        "model_answer": "By planning experiments aligned with theory lessons."
+    },
+    {
+        "question": "How do you handle large class sizes in practical sessions?",
+        "difficulty": "medium",
+        "model_answer": "By grouping students and rotating experiments."
+    }
+    ],
+    "resources": {
+    "government": [
+        {
+        "title": "NCERT Laboratory Manuals",
+        "url": "https://ncert.nic.in/laboratory-manuals.php",
+        "description": "Official laboratory manuals for senior secondary science."
+        }
+    ]
+    }
+},
+
+"Assessment & Evaluation": {
+    "questions": [
+    {
+        "question": "What assessment methods are used for PCMB students?",
+        "difficulty": "easy",
+        "model_answer": "Written exams, practical exams, and internal assessments."
+    },
+    {
+        "question": "How do you assess problem-solving ability?",
+        "difficulty": "medium",
+        "model_answer": "Through numerical problems and application-based questions."
+    },
+    {
+        "question": "How do practical exams contribute to evaluation?",
+        "difficulty": "easy",
+        "model_answer": "They assess hands-on skills and experimental understanding."
+    }
+    ],
+    "resources": {
+    "government": [
+        {
+        "title": "KSEAB – PUC Examination Section",
+        "url": "https://kseab.karnataka.gov.in/english",
+        "description": "State-level guidelines for PUC science examinations."
+        }
+    ]
+    }
+},
+
+"Technology Integration": {
+    "questions": [
+    {
+        "question": "How can simulations improve PCMB learning?",
+        "difficulty": "easy",
+        "model_answer": "They help visualize complex scientific processes."
+    },
+    {
+        "question": "Which government platforms support science teachers?",
+        "difficulty": "easy",
+        "model_answer": "DIKSHA and SWAYAM platforms."
+    }
+    ],
+    "resources": {
+    "government": [
+        {
+        "title": "DIKSHA – Science Content",
+        "url": "https://diksha.gov.in/explore",
+        "description": "Digital learning resources for science subjects."
+        }
+    ]
+    }
+},
+
+"Behavioral / HR": {
+    "questions": [
+    {
+        "question": "What qualities are essential for PCMB teachers?",
+        "difficulty": "easy",
+        "model_answer": "Strong subject knowledge, patience, mentoring ability, and clarity."
+    },
+    {
+        "question": "How do you handle student burnout?",
+        "difficulty": "medium",
+        "model_answer": "By balancing workload and offering emotional support."
+    }
+    ]
+},
+
+"Scenarios": {
+    "questions": [
+    {
+        "question": "How would you help a student weak in one PCMB subject?",
+        "difficulty": "medium",
+        "model_answer": "By diagnosing gaps and offering targeted support."
+    },
+    {
+        "question": "What would you do if students focus only on coaching classes?",
+        "difficulty": "medium",
+        "model_answer": "Reinforce conceptual learning and classroom relevance."
+    }
+    ]
+},
+
+"Professional Qualifications & Eligibility": {
+    "questions": [
+    {
+        "question": "What qualifications are required for PUC PCMB teachers?",
+        "difficulty": "easy",
+        "model_answer": "Post-graduation in the subject with B.Ed. qualification."
+    },
+    {
+        "question": "Is CTET required for PUC teachers?",
+        "difficulty": "easy",
+        "model_answer": "CTET is not mandatory for PUC level teaching."
+    }
+    ],
+    "resources": {
+    "government": [
+        {
+        "title": "NCTE PGT Qualification Norms",
+        "url": "https://ncte.gov.in/Website/MinimumQualifications.aspx",
+        "description": "Eligibility criteria for senior secondary teachers."
+        }
+    ]
+    }
+}
+}
+}

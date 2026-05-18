@@ -1,0 +1,257 @@
+{
+"category": "High School Teacher (9–10) – State Board",
+"sections": {
+"Pedagogy & Adolescent Development": {
+    "questions": [
+    {
+        "question": "What are the major psychological characteristics of students in grades 9–10?",
+        "difficulty": "easy",
+        "model_answer": "Students show abstract thinking, emotional sensitivity, exam-related stress, and a strong need for guidance and motivation."
+    },
+    {
+        "question": "How does adolescent development affect classroom behavior?",
+        "difficulty": "medium",
+        "model_answer": "Students may show mood swings, peer influence, and a desire for independence, requiring supportive and structured teaching."
+    },
+    {
+        "question": "How do you balance academic rigor with emotional support?",
+        "difficulty": "medium",
+        "model_answer": "By maintaining high expectations while providing counseling, encouragement, and flexibility."
+    },
+    {
+        "question": "What role does motivation play at the secondary level?",
+        "difficulty": "easy",
+        "model_answer": "Motivation helps students manage syllabus load and exam pressure effectively."
+    },
+    {
+        "question": "How does NEP 2020 influence secondary education?",
+        "difficulty": "medium",
+        "model_answer": "It promotes competency-based learning, reduced rote memorization, and critical thinking."
+    }
+    ],
+    "resources": {
+    "government": [
+        {
+        "title": "NCERT – Adolescent Development Resources",
+        "url": "https://ncert.nic.in/adolescence-education-programme.php",
+        "description": "Guidelines on adolescent psychology and learning."
+        },
+        {
+        "title": "NEP 2020 – Secondary Stage",
+        "url": "https://dsel.education.gov.in/sites/default/files/NEP_Final_English_0.pdf",
+        "description": "Policy framework for secondary education."
+        }
+    ]
+    }
+},
+
+"Subject Knowledge": {
+    "questions": [
+    {
+        "question": "What subjects are taught at the State Board secondary level?",
+        "difficulty": "easy",
+        "model_answer": "Languages, Mathematics, Science, Social Science, and optional vocational subjects."
+    },
+    {
+        "question": "How do you ensure conceptual clarity in core subjects?",
+        "difficulty": "medium",
+        "model_answer": "By explaining fundamentals, using examples, and continuous revision."
+    },
+    {
+        "question": "How do you align teaching with the State Board syllabus?",
+        "difficulty": "easy",
+        "model_answer": "By following the prescribed textbooks and curriculum guidelines."
+    },
+    {
+        "question": "How do you handle numerically weak students in Mathematics?",
+        "difficulty": "medium",
+        "model_answer": "Through remedial classes, practice worksheets, and individual support."
+    },
+    {
+        "question": "Why are state board textbooks important?",
+        "difficulty": "easy",
+        "model_answer": "They reflect the exam pattern and curriculum set by the education board."
+    }
+    ],
+    "resources": {
+    "government": [
+        {
+        "title": "State Board Textbooks (KTBS)",
+        "url": "https://ktbs.kar.nic.in/New/index.html",
+        "description": "Prescribed textbooks aligned with state syllabi."
+        }
+    ]
+    }
+},
+
+"Classroom Management": {
+    "questions": [
+    {
+        "question": "How do you manage discipline in large classrooms?",
+        "difficulty": "medium",
+        "model_answer": "By setting clear rules, consistency, and positive discipline."
+    },
+    {
+        "question": "How do you deal with exam-related stress in students?",
+        "difficulty": "medium",
+        "model_answer": "By counseling, time-management guidance, and reassurance."
+    },
+    {
+        "question": "How do you encourage participation from introverted students?",
+        "difficulty": "easy",
+        "model_answer": "By using group activities and encouraging small contributions."
+    },
+    {
+        "question": "How do you handle classroom distractions?",
+        "difficulty": "easy",
+        "model_answer": "By engaging teaching and clear expectations."
+    }
+    ],
+    "resources": {
+    "government": [
+        {
+        "title": "NCERT Classroom Management Guidelines (AAC)",
+        "url": "https://ncert.nic.in/aac.php",
+        "description": "Best practices for classroom discipline."
+        }
+    ]
+    }
+},
+
+"Assessment & Evaluation": {
+    "questions": [
+    {
+        "question": "What types of assessments are used in State Board schools?",
+        "difficulty": "easy",
+        "model_answer": "Formative assessments, internal exams, and board examinations."
+    },
+    {
+        "question": "How do you prepare students for board exams?",
+        "difficulty": "medium",
+        "model_answer": "By revision plans, practice tests, and previous year questions."
+    },
+    {
+        "question": "What is the importance of previous year question papers?",
+        "difficulty": "easy",
+        "model_answer": "They help understand exam patterns and marking schemes."
+    },
+    {
+        "question": "How do you evaluate answer scripts fairly?",
+        "difficulty": "medium",
+        "model_answer": "By following marking schemes and objective criteria."
+    }
+    ],
+    "resources": {
+    "government": [
+        {
+        "title": "Karnataka School Examination and Assessment Board (KSEAB)",
+        "url": "https://kseab.karnataka.gov.in/english",
+        "description": "Assessment and evaluation norms."
+        }
+    ]
+    }
+},
+
+"Technology Integration": {
+    "questions": [
+    {
+        "question": "How can technology support secondary education?",
+        "difficulty": "easy",
+        "model_answer": "Through digital content, videos, and online assessments."
+    },
+    {
+        "question": "Which government platforms are useful for teachers?",
+        "difficulty": "easy",
+        "model_answer": "DIKSHA and SWAYAM."
+    },
+    {
+        "question": "How do you ensure responsible technology use?",
+        "difficulty": "easy",
+        "model_answer": "By setting boundaries and supervising usage."
+    }
+    ],
+    "resources": {
+    "government": [
+        {
+        "title": "DIKSHA",
+        "url": "https://diksha.gov.in/explore",
+        "description": "Digital teaching and learning platform."
+        }
+    ]
+    }
+},
+
+"Behavioral / HR": {
+    "questions": [
+    {
+        "question": "What qualities are expected from a high school teacher?",
+        "difficulty": "easy",
+        "model_answer": "Subject expertise, discipline, empathy, and communication skills."
+    },
+    {
+        "question": "How do you handle professional responsibilities?",
+        "difficulty": "easy",
+        "model_answer": "By planning lessons and meeting institutional expectations."
+    },
+    {
+        "question": "How do you communicate with parents regarding performance?",
+        "difficulty": "easy",
+        "model_answer": "Through meetings, progress reports, and counseling sessions."
+    }
+    ],
+    "resources": {
+    "organizations": [
+        {
+        "title": "ASCD Secondary Teaching Resources",
+        "url": "https://www.ascd.org/resources",
+        "description": "Professional growth resources for teachers."
+        }
+    ]
+    }
+},
+
+"Scenarios": {
+    "questions": [
+    {
+        "question": "How would you support a student who is failing in multiple subjects?",
+        "difficulty": "medium",
+        "model_answer": "By identifying gaps, providing remedial support, and involving parents."
+    },
+    {
+        "question": "What would you do if students are anxious before board exams?",
+        "difficulty": "medium",
+        "model_answer": "Offer reassurance, revision plans, and stress-management guidance."
+    }
+    ]
+},
+
+"Professional Qualifications & Eligibility": {
+    "questions": [
+    {
+        "question": "What qualifications are required for State Board high school teachers?",
+        "difficulty": "easy",
+        "model_answer": "Graduation in the subject with B.Ed. and CTET/TET qualification."
+    },
+    {
+        "question": "Is TET mandatory for State Board teachers?",
+        "difficulty": "easy",
+        "model_answer": "Yes, State TET or CTET Paper-II is mandatory."
+    }
+    ],
+    "resources": {
+    "government": [
+        {
+        "title": "NCTE Teacher Eligibility Norms",
+        "url": "https://ncte.gov.in/Website/MinimumQualifications.aspx",
+        "description": "Official qualification standards."
+        },
+        {
+        "title": "State TET (KARTET) Information",
+        "url": "https://sts.karnataka.gov.in/TET/",
+        "description": "Teacher eligibility examination details."
+        }
+    ]
+    }
+}
+}
+}

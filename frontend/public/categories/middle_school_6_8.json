@@ -1,0 +1,317 @@
+{
+"category": "Middle School (Grades 6–8)",
+"sections": {
+"Pedagogy & Adolescent Development": {
+    "questions": [
+    {
+        "question": "What are the key cognitive and emotional characteristics of students aged 11–14?",
+        "difficulty": "easy",
+        "model_answer": "Students develop abstract thinking, stronger peer influence, emotional sensitivity, and a growing sense of identity."
+    },
+    {
+        "question": "How does adolescent development influence teaching strategies?",
+        "difficulty": "medium",
+        "model_answer": "Teaching must include active engagement, discussion, collaboration, and relevance to real-life situations."
+    },
+    {
+        "question": "What is constructivist learning?",
+        "difficulty": "easy",
+        "model_answer": "A learning approach where students build knowledge through experience and reflection."
+    },
+    {
+        "question": "How does NEP 2020 impact middle school pedagogy?",
+        "difficulty": "medium",
+        "model_answer": "It emphasizes experiential learning, competency-based education, and interdisciplinary approaches."
+    },
+    {
+        "question": "How do you encourage critical thinking at this stage?",
+        "difficulty": "medium",
+        "model_answer": "By asking open-ended questions, debates, projects, and problem-solving activities."
+    },
+    {
+        "question": "Why is peer learning effective for middle school students?",
+        "difficulty": "easy",
+        "model_answer": "Peers influence motivation and understanding through collaboration."
+    },
+    {
+        "question": "How do learning outcomes guide lesson planning?",
+        "difficulty": "easy",
+        "model_answer": "They define clear objectives and measurable student competencies."
+    },
+    {
+        "question": "How do you address emotional challenges in adolescents?",
+        "difficulty": "medium",
+        "model_answer": "By creating a supportive environment and collaborating with counselors and parents."
+    },
+    {
+        "question": "What is inquiry-based learning?",
+        "difficulty": "easy",
+        "model_answer": "A method where students learn by exploring questions and problems."
+    },
+    {
+        "question": "How do you motivate disengaged learners?",
+        "difficulty": "medium",
+        "model_answer": "By connecting content to interests, offering choice, and positive reinforcement."
+    }
+    ],
+    "resources": {
+    "government": [
+        {
+        "title": "NCERT Learning Outcomes – Upper Primary Stage",
+        "url": "https://ncert.nic.in/pdf/publication/other/learning_outcomes.pdf",
+        "description": "Official learning outcomes for Classes 6–8."
+        },
+        {
+        "title": "NEP 2020 – Middle Stage",
+        "url": "https://dsel.education.gov.in/sites/default/files/NEP_Final_English_0.pdf",
+        "description": "Policy framework for middle school education."
+        }
+    ]
+    }
+},
+
+"Subject Knowledge": {
+    "questions": [
+    {
+        "question": "What core subjects are taught at the middle school level?",
+        "difficulty": "easy",
+        "model_answer": "Languages, Mathematics, Science, Social Science, and optional Arts."
+    },
+    {
+        "question": "How do you teach abstract mathematical concepts effectively?",
+        "difficulty": "medium",
+        "model_answer": "Using visual models, step-by-step explanation, and real-life applications."
+    },
+    {
+        "question": "How is Science teaching different from primary school?",
+        "difficulty": "medium",
+        "model_answer": "It introduces experiments, hypothesis testing, and conceptual depth."
+    },
+    {
+        "question": "How do you integrate Social Science with current affairs?",
+        "difficulty": "easy",
+        "model_answer": "By linking history, geography, and civics topics to real-world events."
+    },
+    {
+        "question": "Why are NCERT textbooks important?",
+        "difficulty": "easy",
+        "model_answer": "They ensure conceptual clarity and alignment with national standards."
+    },
+    {
+        "question": "How do you promote reading comprehension?",
+        "difficulty": "easy",
+        "model_answer": "Through guided reading, questioning, and summarization exercises."
+    },
+    {
+        "question": "How do you encourage scientific inquiry?",
+        "difficulty": "medium",
+        "model_answer": "By allowing experiments, observations, and hypothesis-driven discussions."
+    },
+    {
+        "question": "How do you handle syllabus completion pressure?",
+        "difficulty": "medium",
+        "model_answer": "By effective planning and prioritizing core concepts."
+    },
+    {
+        "question": "What is interdisciplinary learning?",
+        "difficulty": "easy",
+        "model_answer": "Connecting concepts across subjects to deepen understanding."
+    },
+    {
+        "question": "How do you use projects in teaching?",
+        "difficulty": "easy",
+        "model_answer": "Projects help students apply concepts practically."
+    }
+    ],
+    "resources": {
+    "government": [
+        {
+        "title": "NCERT Textbooks – Classes 6–8",
+        "url": "https://ncert.nic.in/textbook.php",
+        "description": "Official textbooks for middle school."
+        }
+    ]
+    }
+},
+
+"Classroom Management": {
+    "questions": [
+    {
+        "question": "How do you manage discipline among adolescents?",
+        "difficulty": "medium",
+        "model_answer": "By mutual respect, clear expectations, and consistent rules."
+    },
+    {
+        "question": "How do you handle peer conflicts?",
+        "difficulty": "medium",
+        "model_answer": "Through mediation, counseling, and conflict-resolution strategies."
+    },
+    {
+        "question": "How do you ensure student participation?",
+        "difficulty": "easy",
+        "model_answer": "By interactive teaching and inclusive practices."
+    },
+    {
+        "question": "What strategies improve classroom engagement?",
+        "difficulty": "easy",
+        "model_answer": "Group work, questioning, and activity-based learning."
+    },
+    {
+        "question": "How do you handle disruptive behavior?",
+        "difficulty": "medium",
+        "model_answer": "By identifying causes and using corrective discipline."
+    }
+    ],
+    "resources": {
+    "government": [
+        {
+        "title": "NCERT Classroom Practices (AAC)",
+        "url": "https://ncert.nic.in/aac.php",
+        "description": "Guidelines for effective classroom management."
+        }
+    ]
+    }
+},
+
+"Assessment & Evaluation": {
+    "questions": [
+    {
+        "question": "What is formative assessment?",
+        "difficulty": "easy",
+        "model_answer": "Assessment conducted during learning to improve outcomes."
+    },
+    {
+        "question": "How do you assess conceptual understanding?",
+        "difficulty": "medium",
+        "model_answer": "Through oral questioning, projects, and application-based tests."
+    },
+    {
+        "question": "What is competency-based assessment?",
+        "difficulty": "medium",
+        "model_answer": "Assessment based on skills and outcomes rather than memorization."
+    },
+    {
+        "question": "How do you provide effective feedback?",
+        "difficulty": "easy",
+        "model_answer": "By giving timely, constructive, and specific feedback."
+    },
+    {
+        "question": "How do assessments support learning?",
+        "difficulty": "easy",
+        "model_answer": "They help identify strengths and learning gaps."
+    }
+    ],
+    "resources": {
+    "government": [
+        {
+        "title": "NCERT Assessment Source Book (Classes VI-VIII)",
+        "url": "https://ncert.nic.in/dee/pdf/SourceBookonAssessmentforClassesVItoVIII.pdf",
+        "description": "Assessment framework for upper primary classes."
+        }
+    ]
+    }
+},
+
+"Technology Integration": {
+    "questions": [
+    {
+        "question": "How can technology enhance middle school learning?",
+        "difficulty": "easy",
+        "model_answer": "By improving visualization, access to content, and engagement."
+    },
+    {
+        "question": "Which government platforms support digital learning?",
+        "difficulty": "easy",
+        "model_answer": "DIKSHA and SWAYAM platforms."
+    },
+    {
+        "question": "What precautions should be taken while using technology?",
+        "difficulty": "easy",
+        "model_answer": "Ensure digital safety, supervision, and balanced screen time."
+    }
+    ],
+    "resources": {
+    "government": [
+        {
+        "title": "DIKSHA",
+        "url": "https://diksha.gov.in/explore",
+        "description": "Digital infrastructure for teacher training."
+        }
+    ]
+    }
+},
+
+"Behavioral / HR": {
+    "questions": [
+    {
+        "question": "What qualities are essential for a middle school teacher?",
+        "difficulty": "easy",
+        "model_answer": "Patience, empathy, subject expertise, and communication skills."
+    },
+    {
+        "question": "How do you handle work pressure?",
+        "difficulty": "easy",
+        "model_answer": "Through planning, collaboration, and time management."
+    },
+    {
+        "question": "How do you collaborate with parents?",
+        "difficulty": "easy",
+        "model_answer": "Through meetings, progress reports, and counseling."
+    }
+    ],
+    "resources": {
+    "organizations": [
+        {
+        "title": "ASCD Middle School Resources",
+        "url": "https://www.ascd.org/resources",
+        "description": "Professional development for educators."
+        }
+    ]
+    }
+},
+
+"Scenarios": {
+    "questions": [
+    {
+        "question": "How would you handle a student showing behavioral issues?",
+        "difficulty": "medium",
+        "model_answer": "By counseling, involving parents, and offering support."
+    },
+    {
+        "question": "What would you do if students are not interested in learning?",
+        "difficulty": "medium",
+        "model_answer": "Adapt teaching strategies and include interactive activities."
+    }
+    ]
+},
+
+"Professional Qualifications & Eligibility": {
+    "questions": [
+    {
+        "question": "What qualifications are required for middle school teachers?",
+        "difficulty": "easy",
+        "model_answer": "Graduation with B.Ed. and CTET/TET Paper-II qualification."
+    },
+    {
+        "question": "Is CTET mandatory for middle school teachers?",
+        "difficulty": "easy",
+        "model_answer": "Yes, CTET Paper-II or State TET is mandatory."
+    }
+    ],
+    "resources": {
+    "government": [
+        {
+        "title": "NCTE Norms for TGT",
+        "url": "https://ncte.gov.in/Website/MinimumQualifications.aspx",
+        "description": "Teacher eligibility norms for upper primary stage."
+        },
+        {
+        "title": "CTET Official Website",
+        "url": "https://ctet.nic.in",
+        "description": "Teacher eligibility examination details."
+        }
+    ]
+    }
+}
+}
+}

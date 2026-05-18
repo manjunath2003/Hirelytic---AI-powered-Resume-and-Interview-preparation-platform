@@ -1,0 +1,237 @@
+{
+"category": "High School Teacher (9–12) – ICSE Board",
+"sections": {
+"Pedagogy & Adolescent Development": {
+    "questions": [
+    {
+        "question": "What developmental characteristics are common among ICSE students aged 15–18?",
+        "difficulty": "easy",
+        "model_answer": "Students demonstrate advanced analytical thinking, academic maturity, language proficiency, and exam-oriented focus."
+    },
+    {
+        "question": "How does ICSE pedagogy emphasize conceptual depth?",
+        "difficulty": "medium",
+        "model_answer": "ICSE focuses on detailed syllabus coverage, analytical questions, and strong conceptual foundations."
+    },
+    {
+        "question": "How do you support students coping with academic pressure?",
+        "difficulty": "medium",
+        "model_answer": "By mentoring, structured study plans, and emotional support."
+    },
+    {
+        "question": "Why is critical thinking important in ICSE senior secondary classes?",
+        "difficulty": "easy",
+        "model_answer": "ICSE assessments require reasoning, application, and explanation-based answers."
+    },
+    {
+        "question": "How does NEP 2020 influence ICSE teaching practices?",
+        "difficulty": "medium",
+        "model_answer": "It supports competency-based learning, flexibility, and holistic education."
+    }
+    ],
+    "resources": {
+    "government": [
+        {
+        "title": "CISCE Curriculum Framework",
+        "url": "https://cisce.org/regulations-and-syllabuses-isc-2025/",
+        "description": "Official ICSE/ISC curriculum and academic guidelines."
+        },
+        {
+        "title": "NEP 2020 – Senior Secondary Stage",
+        "url": "https://dsel.education.gov.in/sites/default/files/NEP_Final_English_0.pdf",
+        "description": "National Education Policy guidelines."
+        }
+    ]
+    }
+},
+
+"Subject Knowledge": {
+    "questions": [
+    {
+        "question": "What streams are offered under ICSE/ISC at senior secondary level?",
+        "difficulty": "easy",
+        "model_answer": "Science, Commerce, Humanities, and interdisciplinary subjects."
+    },
+    {
+        "question": "How do ICSE textbooks differ from other boards?",
+        "difficulty": "medium",
+        "model_answer": "They emphasize detailed content, language proficiency, and conceptual rigor."
+    },
+    {
+        "question": "How do you prepare students for ISC examinations?",
+        "difficulty": "medium",
+        "model_answer": "Through syllabus mapping, practice papers, and analytical discussions."
+    },
+    {
+        "question": "Why is subject depth crucial at ISC level?",
+        "difficulty": "easy",
+        "model_answer": "ISC exams test deep understanding and application."
+    },
+    {
+        "question": "How do you integrate real-world applications into teaching?",
+        "difficulty": "easy",
+        "model_answer": "By linking theoretical concepts to real-life examples and case studies."
+    }
+    ],
+    "resources": {
+    "government": [
+        {
+        "title": "CISCE Prescribed Syllabi",
+        "url": "https://cisce.org/publications/",
+        "description": "Official syllabi for ICSE and ISC classes."
+        }
+    ]
+    }
+},
+
+"Classroom Management": {
+    "questions": [
+    {
+        "question": "How do you manage academically intensive ICSE classrooms?",
+        "difficulty": "medium",
+        "model_answer": "By structured lesson planning, time management, and continuous engagement."
+    },
+    {
+        "question": "How do you promote independent learning among ISC students?",
+        "difficulty": "easy",
+        "model_answer": "Through research tasks, presentations, and self-study assignments."
+    },
+    {
+        "question": "How do you maintain discipline in senior classes?",
+        "difficulty": "easy",
+        "model_answer": "By setting expectations and maintaining mutual respect."
+    }
+    ],
+    "resources": {
+    "organizations": [
+        {
+        "title": "CISCE Teacher Resources",
+        "url": "https://cisce.org/teachers/",
+        "description": "Academic and professional resources for ICSE teachers."
+        }
+    ]
+    }
+},
+
+"Assessment & Evaluation": {
+    "questions": [
+    {
+        "question": "What assessment structure is followed in ISC classes?",
+        "difficulty": "easy",
+        "model_answer": "Internal assessments, practical exams, and final board examinations."
+    },
+    {
+        "question": "How do you prepare students for ISC board exams?",
+        "difficulty": "medium",
+        "model_answer": "Through mock exams, revision schedules, and detailed feedback."
+    },
+    {
+        "question": "Why are project works important in ICSE assessment?",
+        "difficulty": "easy",
+        "model_answer": "They assess application, research skills, and conceptual understanding."
+    },
+    {
+        "question": "How do you ensure objective evaluation?",
+        "difficulty": "medium",
+        "model_answer": "By following CISCE marking schemes and assessment rubrics."
+    }
+    ],
+    "resources": {
+    "government": [
+        {
+        "title": "CISCE Assessment Guidelines",
+        "url": "https://cisce.org/specimen-question-papers-isc-class-xii-2025/",
+        "description": "Evaluation and examination norms for ICSE/ISC."
+        }
+    ]
+    }
+},
+
+"Technology Integration": {
+    "questions": [
+    {
+        "question": "How can technology enhance ICSE senior secondary teaching?",
+        "difficulty": "easy",
+        "model_answer": "By supporting research, simulations, and digital assessments."
+    },
+    {
+        "question": "Which platforms support digital learning for ICSE teachers?",
+        "difficulty": "easy",
+        "model_answer": "DIKSHA, SWAYAM, and digital content platforms."
+    }
+    ],
+    "resources": {
+    "government": [
+        {
+        "title": "DIKSHA Platform",
+        "url": "https://diksha.gov.in/explore",
+        "description": "Government-supported digital learning platform."
+        }
+    ]
+    }
+},
+
+"Behavioral / HR": {
+    "questions": [
+    {
+        "question": "What professional qualities are essential for ICSE senior teachers?",
+        "difficulty": "easy",
+        "model_answer": "Subject expertise, mentoring ability, professionalism, and communication skills."
+    },
+    {
+        "question": "How do you support students with career aspirations?",
+        "difficulty": "medium",
+        "model_answer": "Through academic guidance, counseling, and exam preparation strategies."
+    }
+    ],
+    "resources": {
+    "organizations": [
+        {
+        "title": "ASCD – Teaching at Secondary Level",
+        "url": "https://www.ascd.org/resources",
+        "description": "Professional learning resources for secondary educators."
+        }
+    ]
+    }
+},
+
+"Scenarios": {
+    "questions": [
+    {
+        "question": "How would you help a student struggling with ISC syllabus load?",
+        "difficulty": "medium",
+        "model_answer": "By prioritizing topics, creating study plans, and offering mentoring."
+    },
+    {
+        "question": "What would you do if students rely only on memorization?",
+        "difficulty": "medium",
+        "model_answer": "Encourage analytical discussions and application-based tasks."
+    }
+    ]
+},
+
+"Professional Qualifications & Eligibility": {
+    "questions": [
+    {
+        "question": "What qualifications are required to teach ISC classes?",
+        "difficulty": "easy",
+        "model_answer": "Post-graduation in the subject with B.Ed. qualification."
+    },
+    {
+        "question": "Is CTET mandatory for ICSE senior secondary teachers?",
+        "difficulty": "easy",
+        "model_answer": "CTET is not mandatory but may be preferred by schools."
+    }
+    ],
+    "resources": {
+    "government": [
+        {
+        "title": "NCTE Qualification Norms",
+        "url": "https://ncte.gov.in/Website/MinimumQualifications.aspx",
+        "description": "Teacher eligibility standards for senior secondary level."
+        }
+    ]
+    }
+}
+}
+}

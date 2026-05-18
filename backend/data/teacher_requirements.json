@@ -1,0 +1,242 @@
+{
+"Pre-Primary (Nursery-KG)": {
+"required_qualifications": [
+"Senior Secondary (10+2) with minimum 50% marks",
+"Mandatory Diploma in Nursery Teacher Education / Pre-School Education / ECCE (min. 2 years)",
+"OR B.Ed. (Nursery) from NCTE recognized institution"
+],
+"core_skills": [
+"Play-based and Toy-based Pedagogy (NEP 2020 compliant)",
+"Foundational Literacy and Numeracy (FLN) readiness",
+"Storytelling, Rhymes, and Puppetry",
+"Child Psychology & Safety Protocols (POCSO awareness)",
+"Fine & Gross Motor Skill Development",
+"Classroom management for early learners",
+"Parent communication & counseling"
+],
+"preferred_experience": [
+"1–3 years in pre-primary/kindergarten",
+"Experience with NCERT 'Jadui Pitara' or Montessori methods"
+]
+},
+"Primary (Grades 1-5)": {
+"note": "As per Supreme Court Judgment (2023), B.Ed is NOT valid for Primary Teachers.",
+"required_qualifications": [
+"Senior Secondary (10+2) with minimum 50% marks",
+"2-year Diploma in Elementary Education (D.El.Ed) / BTC / JBT",
+"OR 4-year Bachelor of Elementary Education (B.El.Ed)",
+"Mandatory CTET Paper-I or State TET (Paper-I) qualification"
+],
+"core_skills": [
+"NIPUN Bharat Mission goals (FLN mastery)",
+"Activity-based Learning (ABL)",
+"Differentiation for diverse learners",
+"Competency Based Assessment (CBA)",
+"Lesson planning aligned with Learning Outcomes (LOs)",
+"Basic Digital Literacy (Smart Classrooms)",
+"Inclusive Education fundamentals"
+],
+"preferred_experience": [
+"1–3 years teaching primary grades",
+"Experience with remedial teaching for slow learners",
+"Parent–teacher communication experience"
+]
+},
+"Middle School (Grades 6-8)": {
+"required_qualifications": [
+"Bachelor’s Degree in subject specialization with minimum 50% marks",
+"Mandatory Bachelor of Education (B.Ed.)",
+"CTET Paper-II or State TET (Paper-II) qualification"
+],
+"core_skills": [
+"Subject-specific Pedagogy",
+"Project-Based Learning (PBL)",
+"Critical Thinking & Inquiry-based instruction",
+"Adolescent Psychology handling",
+"Blended Learning (Offline + Online tools)",
+"Formative & Summative assessment design",
+"Student engagement & club management"
+],
+"preferred_experience": [
+"2–5 years teaching middle school (TGT level)",
+"Experience with Experiential Learning modules",
+"Mentoring students for House activities"
+]
+},
+"High School (Grades 9-10)": {
+"required_qualifications": [
+"Bachelor’s Degree (Honors preferred) or Master’s Degree in subject",
+"Mandatory Bachelor of Education (B.Ed.)",
+"CTET Paper-II or State TET (Paper-II) qualification"
+],
+"core_skills": [
+"Board Exam Syllabus Mastery (CBSE/ICSE/State)",
+"Higher Order Thinking Skills (HOTS) instruction",
+"Lab Management (for Science) & Map Work (Social Science)",
+"Question paper setting as per Board Blueprints",
+"Remedial teaching for board exam success",
+"Career Guidance basics",
+"AI-Integrated Teaching methods"
+],
+"preferred_experience": [
+"3+ years handling Board classes (9-10)",
+"Experience in Board Paper Evaluation/Correction"
+]
+},
+"Higher Secondary / PUC (Grades 11-12)": {
+"required_qualifications": [
+"Master’s Degree (M.A/M.Sc/M.Com/MCA) with minimum 50-55%",
+"Mandatory Bachelor of Education (B.Ed.)",
+"Subject specialization expertise"
+],
+"core_skills": [
+"Advanced Subject Matter Expertise",
+"Competitive exam alignment (NEET/JEE/CET/CA-Foundation)",
+"Practical/Lab supervision & Viva conduction",
+"Research-oriented teaching",
+"Digital Content Creation (Video lectures/PPTs)",
+"Curriculum planning for senior secondary",
+"Student Mentoring for Higher Education"
+],
+"preferred_experience": [
+"3–7 years as PGT (Post Graduate Teacher)",
+"Experience as External Examiner for Practicals"
+]
+},
+"Subject-Specific Requirements": {
+"English": {
+"required_qualifications": [
+"B.A/M.A in English",
+"B.Ed"
+],
+"core_skills": [
+"Phonetics & Pronunciation",
+"Creative & Analytical Writing",
+"Communicative English Teaching (CLT)",
+"Literature Analysis & Appreciation",
+"Assessment of LSRW skills (Listening, Speaking, Reading, Writing)"
+]
+},
+"Mathematics": {
+"required_qualifications": [
+"B.Sc/M.Sc in Mathematics",
+"B.Ed"
+],
+"core_skills": [
+"Concept-based Math teaching",
+"Logical reasoning & Problem Solving heuristics",
+"Use of GeoGebra/Desmos tools",
+"Error analysis and Board Exam preparation"
+]
+},
+"Science": {
+"required_qualifications": [
+"B.Sc/M.Sc in Physics/Chemistry/Biology",
+"B.Ed"
+],
+"core_skills": [
+"Laboratory Safety & Management",
+"Scientific Method instruction",
+"STEM/STEAM integration",
+"Demonstration method proficiency"
+]
+},
+"Computer Science": {
+"required_qualifications": [
+"B.E/B.Tech (CS/IT) OR MCA OR M.Sc (CS/IT)",
+"B.Ed (Desirable/Optional for some Central Boards)"
+],
+"core_skills": [
+"Programming proficiency (Python/Java/C++)",
+"Computational Thinking & Algorithms",
+"Cyber Safety & Digital Citizenship",
+"AI & Machine Learning basics"
+]
+}
+},
+"PUC Streams": {
+"PCMB": {
+"required_qualifications": [
+"M.Sc in Physics/Chemistry/Maths/Biology",
+"B.Ed"
+],
+"core_skills": [
+"Subject Specialization (Depth)",
+"Lab Experiment Supervision",
+"Conceptual teaching for Competitive Exams",
+"Previous Year Paper Analysis"
+]
+},
+"PCMCs": {
+"required_qualifications": [
+"M.Sc/MCA/B.Tech (CSE/IT)",
+"B.Ed (Preferred)"
+],
+"core_skills": [
+"Advanced Programming (C++/Python)",
+"Logic Building & Debugging",
+"Technology Integration",
+"Assessment creation for practicals"
+]
+},
+"Commerce": {
+"required_qualifications": [
+"M.Com / MBA (Finance)",
+"B.Ed (Preferred)"
+],
+"core_skills": [
+"Accountancy & Financial Statements",
+"Business Studies & Case Analysis",
+"Economics (Micro/Macro)",
+"Real-world financial literacy"
+]
+}
+},
+"General Teaching Competencies": {
+"core_skills": [
+"Lesson Planning (Bloom's Taxonomy)",
+"Curriculum Mapping & Pacing",
+"Assessment Design (Rubrics)",
+"Classroom Management Strategies",
+"Differentiated Instruction",
+"Social-Emotional Learning (SEL)",
+"Digital Tool Proficiency (LMS/EdTech)"
+]
+},
+"NEP 2020 Competencies": {
+"core_focus": [
+"Competency-Based Education (CBE)",
+"Multidisciplinary & Holistic Learning",
+"Experiential & Art-Integrated Learning",
+"21st-Century Skills (Critical Thinking, Collaboration, Creativity)",
+"Vocational Skill Integration",
+"Flexible & 360-degree Assessments"
+]
+},
+"Boards": {
+"CBSE": {
+"core_focus": [
+"Competency-Based Questions (Case studies)",
+"NCERT Learning Outcomes",
+"Art-Integrated Learning Projects",
+"Portfolio & Subject Enrichment Activities"
+]
+},
+"ICSE": {
+"core_focus": [
+"Conceptual Depth & Comprehensive Syllabus",
+"Project Work & SUPW",
+"High English Proficiency",
+"Analytical & Application-based questions"
+]
+},
+"State Board": {
+"core_focus": [
+"State Syllabus Textbooks adherence",
+"Bilingual Teaching (if required)",
+"Exam-oriented rote/conceptual balance",
+"Local Context Integration"
+]
+}
+}
+}

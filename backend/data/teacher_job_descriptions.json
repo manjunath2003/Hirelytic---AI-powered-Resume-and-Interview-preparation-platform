@@ -1,0 +1,236 @@
+{
+"Primary School Teacher (Grades 1-5)": {
+"job_title": "Primary School Teacher",
+"grades": ["1", "2", "3", "4", "5"],
+"required_qualifications": [
+    "D.El.Ed or B.El.Ed or Graduation with B.Ed",
+    "CTET/TET Paper-I",
+    "Knowledge of child psychology & pedagogy"
+],
+"responsibilities": [
+    "Teach foundational literacy and numeracy",
+    "Use activity-based and experiential teaching methods",
+    "Prepare daily lesson plans and structured unit plans",
+    "Ensure classroom discipline and safety",
+    "Conduct assessments and maintain records",
+    "Communicate regularly with parents",
+    "Integrate technology for teaching-learning"
+],
+"required_skills": [
+    "Classroom management",
+    "Child-centered pedagogy",
+    "Phonics instruction",
+    "Activity-based teaching",
+    "Basic computer literacy",
+    "Assessment planning"
+],
+"preferred_experience": [
+    "1–3 years experience teaching primary grades",
+    "Experience with NCERT/State Board primary curriculum"
+],
+"keywords": [
+    "primary teaching",
+    "child development",
+    "activity-based learning",
+    "phonics",
+    "classroom control"
+]
+},
+
+"Middle School Teacher (Grades 6-8)": {
+"job_title": "Middle School Teacher",
+"grades": ["6", "7", "8"],
+"required_qualifications": [
+    "Bachelor’s Degree in relevant subject",
+    "Mandatory B.Ed.",
+    "CTET/TET Paper-II"
+],
+"responsibilities": [
+    "Teach subject content clearly with conceptual focus",
+    "Prepare lesson plans, worksheets, and projects",
+    "Conduct formative & summative assessments",
+    "Use digital tools and blended learning methods",
+    "Support students with differentiated strategies",
+    "Mentor students academically and socially"
+],
+"required_skills": [
+    "Subject expertise",
+    "Curriculum planning",
+    "Digital teaching skills",
+    "Student engagement techniques",
+    "Assessment & evaluation",
+    "Learning outcome mapping"
+],
+"preferred_experience": [
+    "2–5 years teaching middle school",
+    "Experience with competency-based assessments"
+],
+"keywords": [
+    "middle school teaching",
+    "formative assessment",
+    "project-based learning",
+    "student mentoring"
+]
+},
+
+"High School Teacher (Grades 9-10)": {
+"job_title": "High School Teacher",
+"grades": ["9", "10"],
+"required_qualifications": [
+    "Bachelor’s/Master’s Degree in subject",
+    "Mandatory B.Ed.",
+    "CTET/TET Paper-II"
+],
+"responsibilities": [
+    "Teach board syllabus with exam orientation",
+    "Conduct internal assessments, tests, and evaluations",
+    "Prepare question papers, worksheets, and assignments",
+    "Guide students in HOTS-based preparation",
+    "Maintain academic and performance records",
+    "Offer remedial and enrichment classes"
+],
+"required_skills": [
+    "Subject mastery",
+    "Exam-oriented teaching",
+    "HOTS development",
+    "Assessment design",
+    "CBSE/ICSE pattern familiarity",
+    "Classroom management"
+],
+"preferred_experience": [
+    "3+ years experience handling board exam classes",
+    "Experience conducting remedial classes"
+],
+"keywords": [
+    "board exam preparation",
+    "CBSE",
+    "HOTS",
+    "remedial teaching"
+]
+},
+
+"Senior Secondary / PUC Teacher (Grades 11-12)": {
+"job_title": "Senior Secondary / PUC Teacher",
+"grades": ["11", "12"],
+"required_qualifications": [
+    "Master’s Degree in subject specialization",
+    "B.Ed/M.Ed"
+],
+"responsibilities": [
+    "Teach advanced subject concepts",
+    "Prepare students for board and competitive exams",
+    "Design detailed lesson plans and study materials",
+    "Conduct lab sessions for science subjects",
+    "Guide students in academic and career planning",
+    "Prepare model question papers",
+    "Conduct internal assessments and evaluations"
+],
+"required_skills": [
+    "Advanced subject knowledge",
+    "Analytical and conceptual teaching",
+    "Lecture planning",
+    "Competitive exam preparation",
+    "Research-oriented instruction"
+],
+"preferred_experience": [
+    "3–7 years senior secondary teaching",
+    "Experience coaching students for JEE/NEET/CET/Commerce exams"
+],
+"keywords": [
+    "PUC",
+    "senior secondary",
+    "competitive exam preparation",
+    "analytical teaching"
+]
+},
+
+"Subject-Specific JDs": {
+"English Teacher": {
+    "required_qualifications": ["B.A/M.A in English", "B.Ed"],
+    "required_skills": [
+    "Literary analysis",
+    "Creative writing",
+    "Grammar and communication instruction",
+    "Pronunciation coaching",
+    "Reading comprehension"
+    ],
+    "responsibilities": [
+    "Teach prose, poetry, drama, grammar",
+    "Prepare lesson plans",
+    "Assess writing, speaking, and reading"
+    ],
+    "keywords": ["english teacher", "grammar", "literature"]
+},
+
+"Mathematics Teacher": {
+    "required_qualifications": ["B.Sc/M.Sc in Maths", "B.Ed"],
+    "required_skills": [
+    "Conceptual clarity",
+    "Logical reasoning",
+    "Problem solving",
+    "Algebra, Geometry, Trigonometry"
+    ],
+    "responsibilities": [
+    "Teach mathematical concepts",
+    "Prepare worksheets and problem sets"
+    ],
+    "keywords": ["maths teacher", "problem solving"]
+},
+
+"Science Teacher": {
+    "required_qualifications": ["B.Sc/M.Sc (Physics/Chem/Bio)", "B.Ed"],
+    "required_skills": [
+    "Scientific method",
+    "Lab handling & safety",
+    "STEM pedagogy",
+    "Experiment supervision"
+    ],
+    "responsibilities": [
+    "Conduct experiments and lab sessions",
+    "Teach science using inquiry-based methods"
+    ],
+    "keywords": ["science teacher", "lab experiments"]
+},
+
+"Computer Science Teacher": {
+    "required_qualifications": ["BCA/MCA or B.Tech / B.Sc CS"],
+    "required_skills": [
+    "Programming (Python/Java/C++)",
+    "Technology-enabled instruction",
+    "Digital literacy",
+    "Computer lab management"
+    ],
+    "responsibilities": [
+    "Teach coding fundamentals",
+    "Conduct practical lab sessions",
+    "Design computer-based assignments"
+    ],
+    "keywords": ["computer science teacher", "coding"]
+}
+},
+
+"Board-Specific Requirements": {
+"CBSE": {
+    "requirements": [
+    "Competency-based education",
+    "NCERT textbook expertise",
+    "Learning outcome mapping",
+    "Rubric-based & activity-based assessments"
+    ]
+},
+"ICSE": {
+    "requirements": [
+    "Conceptual depth focus",
+    "Project-based learning",
+    "Strong English-medium instruction"
+    ]
+},
+"State Board": {
+    "requirements": [
+    "Local syllabus alignment",
+    "Bilingual teaching ability",
+    "Exam-oriented instruction"
+    ]
+}
+}
+}

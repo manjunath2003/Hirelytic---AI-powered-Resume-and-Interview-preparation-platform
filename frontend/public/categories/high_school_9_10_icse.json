@@ -1,0 +1,257 @@
+{
+"category": "High School Teacher (9–10) – ICSE Board",
+"sections": {
+"Pedagogy & Adolescent Development": {
+    "questions": [
+    {
+        "question": "What learning characteristics are typical of ICSE students in grades 9–10?",
+        "difficulty": "easy",
+        "model_answer": "Students demonstrate strong language skills, analytical thinking, and a focus on detailed understanding across subjects."
+    },
+    {
+        "question": "How does ICSE pedagogy differ from other boards?",
+        "difficulty": "medium",
+        "model_answer": "ICSE emphasizes depth of content, analytical writing, project work, and language proficiency."
+    },
+    {
+        "question": "How do you support students facing exam stress?",
+        "difficulty": "medium",
+        "model_answer": "By structured revision plans, counseling, and encouraging balanced study habits."
+    },
+    {
+        "question": "How does NEP 2020 align with ICSE teaching practices?",
+        "difficulty": "medium",
+        "model_answer": "Both promote conceptual understanding, critical thinking, and reduced rote learning."
+    },
+    {
+        "question": "What role does teacher feedback play at this stage?",
+        "difficulty": "easy",
+        "model_answer": "Timely feedback helps students improve analytical writing and subject mastery."
+    }
+    ],
+    "resources": {
+    "government": [
+        {
+        "title": "CISCE Academic Guidelines",
+        "url": "https://cisce.org/regulations-and-syllabuses-icse-2025/",
+        "description": "Official academic framework and circulars for ICSE."
+        },
+        {
+        "title": "NEP 2020 – Secondary Education",
+        "url": "https://dsel.education.gov.in/sites/default/files/NEP_Final_English_0.pdf",
+        "description": "National policy framework for secondary education."
+        }
+    ]
+    }
+},
+
+"Subject Knowledge": {
+    "questions": [
+    {
+        "question": "What subjects are compulsory in ICSE classes 9–10?",
+        "difficulty": "easy",
+        "model_answer": "English, Mathematics, Science, Social Studies, and a second language."
+    },
+    {
+        "question": "How do you teach analytical writing skills effectively?",
+        "difficulty": "medium",
+        "model_answer": "By structured practice, sample answers, and guided feedback."
+    },
+    {
+        "question": "Why are ICSE textbooks content-heavy?",
+        "difficulty": "easy",
+        "model_answer": "They aim to develop in-depth subject understanding and analytical ability."
+    },
+    {
+        "question": "How do you prepare students for project-based assessments?",
+        "difficulty": "medium",
+        "model_answer": "By guiding research, structuring projects, and ensuring originality."
+    },
+    {
+        "question": "How do you integrate cross-curricular learning?",
+        "difficulty": "easy",
+        "model_answer": "By linking concepts across subjects and real-world contexts."
+    }
+    ],
+    "resources": {
+    "government": [
+        {
+        "title": "ICSE Prescribed Textbooks & Syllabi",
+        "url": "https://cisce.org/publications/",
+        "description": "Official textbooks and syllabus documents."
+        }
+    ]
+    }
+},
+
+"Classroom Management": {
+    "questions": [
+    {
+        "question": "How do you manage academically intensive classrooms?",
+        "difficulty": "medium",
+        "model_answer": "By structured lesson plans, clear expectations, and student engagement."
+    },
+    {
+        "question": "How do you encourage student participation in discussions?",
+        "difficulty": "easy",
+        "model_answer": "By asking open-ended questions and promoting respectful dialogue."
+    },
+    {
+        "question": "How do you address varying learning speeds?",
+        "difficulty": "medium",
+        "model_answer": "Through differentiated instruction and extra academic support."
+    },
+    {
+        "question": "How do you maintain discipline without limiting creativity?",
+        "difficulty": "medium",
+        "model_answer": "By setting boundaries while encouraging independent thinking."
+    }
+    ],
+    "resources": {
+    "government": [
+        {
+        "title": "ICSE Teaching Best Practices (Training)",
+        "url": "https://cisce.org/teachers/",
+        "description": "Pedagogical and classroom management guidelines."
+        }
+    ]
+    }
+},
+
+"Assessment & Evaluation": {
+    "questions": [
+    {
+        "question": "What assessment methods are used in ICSE?",
+        "difficulty": "easy",
+        "model_answer": "Written exams, internal assessments, and project work."
+    },
+    {
+        "question": "How do you prepare students for descriptive exams?",
+        "difficulty": "medium",
+        "model_answer": "By practicing structured answers and time management."
+    },
+    {
+        "question": "Why are internal assessments important in ICSE?",
+        "difficulty": "easy",
+        "model_answer": "They contribute to final grades and continuous evaluation."
+    },
+    {
+        "question": "How do you ensure fair evaluation?",
+        "difficulty": "medium",
+        "model_answer": "By following marking schemes and objective criteria."
+    }
+    ],
+    "resources": {
+    "government": [
+        {
+        "title": "CISCE Assessment Guidelines (Specimen Papers)",
+        "url": "https://cisce.org/specimen-question-papers-icse-class-x-2025/",
+        "description": "Official ICSE assessment and evaluation norms."
+        }
+    ]
+    }
+},
+
+"Technology Integration": {
+    "questions": [
+    {
+        "question": "How can digital tools support ICSE learning?",
+        "difficulty": "easy",
+        "model_answer": "By enhancing visualization, research skills, and engagement."
+    },
+    {
+        "question": "Which government platforms can ICSE teachers use?",
+        "difficulty": "easy",
+        "model_answer": "DIKSHA and SWAYAM platforms."
+    },
+    {
+        "question": "How do you ensure academic integrity in digital assignments?",
+        "difficulty": "medium",
+        "model_answer": "By promoting originality and monitoring sources."
+    }
+    ],
+    "resources": {
+    "government": [
+        {
+        "title": "DIKSHA",
+        "url": "https://diksha.gov.in/explore",
+        "description": "National digital learning platform."
+        }
+    ]
+    }
+},
+
+"Behavioral / HR": {
+    "questions": [
+    {
+        "question": "What qualities define an effective ICSE teacher?",
+        "difficulty": "easy",
+        "model_answer": "Strong subject mastery, communication skills, and adaptability."
+    },
+    {
+        "question": "How do you handle academic workload?",
+        "difficulty": "easy",
+        "model_answer": "Through structured planning and collaboration."
+    },
+    {
+        "question": "How do you engage parents in student progress?",
+        "difficulty": "easy",
+        "model_answer": "Through regular communication and progress meetings."
+    }
+    ],
+    "resources": {
+    "organizations": [
+        {
+        "title": "ASCD Secondary Teaching Resources",
+        "url": "https://www.ascd.org/resources",
+        "description": "Professional development for secondary educators."
+        }
+    ]
+    }
+},
+
+"Scenarios": {
+    "questions": [
+    {
+        "question": "How would you support a student struggling with descriptive answers?",
+        "difficulty": "medium",
+        "model_answer": "By providing writing frameworks and practice feedback."
+    },
+    {
+        "question": "What would you do if students rely on rote learning?",
+        "difficulty": "medium",
+        "model_answer": "Encourage conceptual questions and analytical discussions."
+    }
+    ]
+},
+
+"Professional Qualifications & Eligibility": {
+    "questions": [
+    {
+        "question": "What qualifications are required to teach ICSE classes 9–10?",
+        "difficulty": "easy",
+        "model_answer": "Graduation in the subject with B.Ed. and CTET/TET qualification."
+    },
+    {
+        "question": "Is CTET required for ICSE teachers?",
+        "difficulty": "easy",
+        "model_answer": "Yes, CTET or State TET is generally required as per institutional norms."
+    }
+    ],
+    "resources": {
+    "government": [
+        {
+        "title": "NCTE Qualification Norms",
+        "url": "https://ncte.gov.in/Website/MinimumQualifications.aspx",
+        "description": "Teacher eligibility standards."
+        },
+        {
+        "title": "CISCE Official Website",
+        "url": "https://cisce.org/",
+        "description": "ICSE board regulations and updates."
+        }
+    ]
+    }
+}
+}
+}
